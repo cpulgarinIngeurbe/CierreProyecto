@@ -65,16 +65,9 @@ classid="clsid:1663ed61-23eb-11d2-b92f-008048fdd814"
 <div id="fijo" class="encabezado-fixed"></div>
 <table id="registrosAprobacion">
 	<thead>   
-        <tr style="display:none" class="SiImprimir">
-            <td  colspan="20" align="center" style="font-size: 14px">PARQUE CENTRAL LOS ROBLES S.A.S.</td>
-        </tr>
-        <tr>        	
-             <td colspan="20">Proyecto:&nbsp;Flora Ppto C </td>
-        </tr>
-        <tr>
-            <td colspan="10">Informe Liquidaci&oacute;n de Contratos</td>
-            <td colspan="10" align="right" >Impresion:  24/08/2026</td>
-        </tr>
+        
+        
+        
        
         <tr align="center" >
             <td class="fondoTBoldTitulo">Contrato No.</td>
