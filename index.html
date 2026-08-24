@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Informe Liquidación de Contratos · Ingeurbe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --verde: #a2c617;
+    --verde-oscuro: #7a9610;
+    --gris: #55525a;
+    --gris-claro: #f4f4f5;
+    --gris-medio: #e2e2e5;
+    --azul: #4a7db5;
+    --naranja: #e8a838;
+    --rojo: #c0392b;
+    --blanco: #ffffff;
+    --texto: #2c2a30;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background: #f0f0f2;
+    color: var(--texto);
+    font-size: 14px;
+  }
+
+  header {
+    background: var(--gris);
+    color: var(--blanco);
+    padding: 0 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .logo-area { display: flex; align-items: center; gap: 14px; }
+  .logo-badge {
+    width: 42px; height: 42px;
+    background: var(--verde);
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 16px; color: var(--gris);
+    letter-spacing: -1px;
+    flex-shrink: 0;
+  }
+  .logo-text { line-height: 1.2; }
+  .logo-text strong { font-size: 17px; font-weight: 700; display: block; }
+  .logo-text span { font-size: 11px; font-weight: 300; color: #c8c8cc; }
+  .header-right { text-align: right; font-size: 12px; color: #c8c8cc; }
+  .header-right strong { color: var(--verde); font-size: 13px; }
+
+  main { max-width: 1500px; margin: 0 auto; padding: 28px 24px 48px; }
+
+  .section-title {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    color: var(--gris);
+    margin: 0 0 14px;
+    padding-left: 10px;
+    border-left: 4px solid var(--verde);
+  }
+
+  .table-card {
+    background: var(--blanco);
+    border-radius: 10px;
+    padding: 20px 22px 18px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+    overflow: hidden;
+  }
+  .table-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 14px; flex-wrap: wrap; gap: 10px;
+  }
+  .table-title { font-size: 13px; font-weight: 700; color: var(--gris); }
+  .badge-count {
+    background: var(--verde); color: var(--blanco);
+    font-size: 11px; font-weight: 700;
+    padding: 2px 8px; border-radius: 20px;
+    margin-left: 8px;
+  }
+  .search-input {
+    border: 1.5px solid var(--gris-medio);
+    border-radius: 6px; padding: 6px 12px;
+    font-size: 12px; font-family: 'Roboto', sans-serif;
+    outline: none; min-width: 220px;
+  }
+  .search-input:focus { border-color: var(--verde); }
+
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 12.5px; white-space: nowrap; }
+  thead th {
+    background: var(--gris-claro);
+    color: var(--gris);
+    font-weight: 700;
+    text-align: left;
+    padding: 9px 10px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    white-space: nowrap;
+    cursor: pointer;
+    user-select: none;
+    position: sticky;
+    top: 0;
+  }
+  thead th:hover { background: var(--gris-medio); }
+  thead th .arrow { font-size: 9px; color: #aaa; margin-left: 4px; }
+  thead th.sorted .arrow { color: var(--verde-oscuro); }
+  tbody tr { border-bottom: 1px solid var(--gris-medio); transition: background .12s; }
+  tbody tr:hover { background: #f8f9fb; }
+  tbody td { padding: 8px 10px; vertical-align: middle; white-space: normal; }
+  td.col-desc { min-width: 280px; max-width: 480px; white-space: normal; }
+  td.align-right { text-align: right; font-family: 'Roboto', monospace; }
+  td.align-center { text-align: center; }
+
+  .gestion-badge {
+    display: inline-block;
+    font-size: 10px; font-weight: 700;
+    padding: 2px 8px; border-radius: 4px;
+    text-transform: uppercase; letter-spacing: .04em;
+    white-space: nowrap;
+    background: var(--gris-medio); color: var(--gris);
+  }
+  .g-cerrado  { background: #e8f5c8; color: #5a8000; }
+  .g-abierto  { background: #ddeef9; color: #1a5f8c; }
+  .g-anulado  { background: #fde8e8; color: #a00; }
+
+  .no-results { text-align: center; color: #aaa; padding: 24px; font-size: 13px; }
+  .loading { text-align: center; color: #aaa; padding: 40px; font-size: 13px; }
+
+  footer {
+    text-align: center; font-size: 11px; color: #aaa;
+    padding: 20px; margin-top: 8px;
+  }
+  footer strong { color: var(--verde); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-area">
+    <div class="logo-badge">IN</div>
+    <div class="logo-text">
+      <strong>Ingeurbe</strong>
+      <span>Informe Liquidación de Contratos</span>
+    </div>
+  </div>
+  <div class="header-right">
+    <strong id="fecha-actualizacion">—</strong><br />
+    Datos sincronizados desde SINCO
+  </div>
+</header>
+
+<main>
+  <div class="section-title">Listado de Contratos</div>
+  <div class="table-card">
+    <div class="table-header">
+      <div class="table-title">Contratos<span class="badge-count" id="badge-count">0</span></div>
+      <input class="search-input" type="text" id="search" placeholder="Buscar contrato, contratista, descripción…" />
+    </div>
+    <div class="table-wrap">
+      <table id="tabla">
+        <thead><tr id="tabla-head"></tr></thead>
+        <tbody id="tabla-body"><tr><td class="loading">Cargando informe…</td></tr></tbody>
+      </table>
+      <div class="no-results" id="no-results" style="display:none">No se encontraron resultados.</div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <strong>INGEURBE S.A.S.</strong> · Informe generado automáticamente desde SINCO
+</footer>
+
+<script>
+const XLS_PATH = 'informes/liquidacion.xls';
+
+// Columnas con tratamiento especial, detectadas por nombre de encabezado
+const NUMERIC_HINT = /valor|acumulado|amortizado|saldo|descuento|faltante/i;
+const BADGE_COLUMN = /estado contrato/i;
+const ATTACHMENT_COLUMN = /adjuntos?/i;
+
+let headers = [];
+let rows = [];          // [{ cells: [{text, numeric, isDate, hasAttachment}], }]
+let sortState = { col: null, dir: 1 };
+
+async function loadData() {
+  let buffer;
+  try {
+    const res = await fetch(XLS_PATH, { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    buffer = await res.arrayBuffer();
+  } catch (err) {
+    document.getElementById('tabla-body').innerHTML =
+      `<tr><td class="loading">No se pudo cargar el informe (${err.message}). Verifica que "${XLS_PATH}" exista en el repositorio.</td></tr>`;
+    return;
+  }
+
+  const html = new TextDecoder('iso-8859-1').decode(buffer);
+  const doc = new DOMParser().parseFromString(html, 'text/html');
+  const table = doc.querySelector('table');
+  if (!table) {
+    document.getElementById('tabla-body').innerHTML = '<tr><td class="loading">El informe no contiene una tabla reconocible.</td></tr>';
+    return;
+  }
+
+  const headerCells = [...table.querySelectorAll('thead td, thead th')];
+  headers = headerCells.map(td => clean(td.textContent));
+
+  rows = [...table.querySelectorAll('tbody tr')].map(tr => {
+    return [...tr.children].map(td => {
+      const text = clean(td.textContent);
+      const num = parseNumber(text);
+      return {
+        text,
+        numeric: num,
+        hasAttachment: !!td.querySelector('.fa-paperclip, [class*="paperclip"]')
+      };
+    });
+  }).filter(cells => cells.some(c => c.text));
+
+  renderHead();
+  render();
+
+  document.getElementById('fecha-actualizacion').textContent =
+    new Date().toLocaleString('es-CO', { dateStyle: 'medium', timeStyle: 'short' });
+}
+
+function clean(s) {
+  return (s || '').replace(/\s+/g, ' ').trim();
+}
+
+function parseNumber(text) {
+  if (!/^-?[\d.,]+$/.test(text)) return null;
+  const n = parseFloat(text.replace(/,/g, ''));
+  return Number.isNaN(n) ? null : n;
+}
+
+function badgeClass(text) {
+  const t = text.toLowerCase();
+  if (t.includes('cerrado')) return 'g-cerrado';
+  if (t.includes('abierto')) return 'g-abierto';
+  if (t.includes('anulado')) return 'g-anulado';
+  return '';
+}
+
+function renderHead() {
+  const tr = document.getElementById('tabla-head');
+  tr.innerHTML = headers.map((h, i) => {
+    if (ATTACHMENT_COLUMN.test(h)) return `<th></th>`;
+    return `<th data-col="${i}">${h}<span class="arrow"></span></th>`;
+  }).join('');
+
+  tr.querySelectorAll('th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = Number(th.dataset.col);
+      sortState.dir = sortState.col === col ? -sortState.dir : 1;
+      sortState.col = col;
+      render();
+    });
+  });
+}
+
+function render() {
+  const q = document.getElementById('search').value.trim().toLowerCase();
+
+  let data = rows;
+  if (q) {
+    data = data.filter(cells => cells.some(c => c.text.toLowerCase().includes(q)));
+  }
+
+  if (sortState.col !== null) {
+    const col = sortState.col;
+    data = [...data].sort((a, b) => {
+      const av = a[col], bv = b[col];
+      let cmp;
+      if (av.numeric !== null && bv.numeric !== null) cmp = av.numeric - bv.numeric;
+      else cmp = av.text.localeCompare(bv.text, 'es');
+      return cmp * sortState.dir;
+    });
+  }
+
+  document.querySelectorAll('#tabla-head th').forEach(th => {
+    th.classList.remove('sorted');
+    const arrow = th.querySelector('.arrow');
+    if (arrow) arrow.textContent = '';
+  });
+  if (sortState.col !== null) {
+    const th = document.querySelector(`#tabla-head th[data-col="${sortState.col}"]`);
+    if (th) {
+      th.classList.add('sorted');
+      th.querySelector('.arrow').textContent = sortState.dir === 1 ? '▲' : '▼';
+    }
+  }
+
+  const tbody = document.getElementById('tabla-body');
+  const noResults = document.getElementById('no-results');
+
+  if (!data.length) {
+    tbody.innerHTML = '';
+    noResults.style.display = '';
+  } else {
+    noResults.style.display = 'none';
+    tbody.innerHTML = data.map(cells => {
+      return '<tr>' + cells.map((c, i) => {
+        const header = headers[i] || '';
+        if (ATTACHMENT_COLUMN.test(header)) {
+          return `<td class="align-center">${c.hasAttachment ? '📎' : ''}</td>`;
+        }
+        if (BADGE_COLUMN.test(header)) {
+          return `<td><span class="gestion-badge ${badgeClass(c.text)}">${c.text}</span></td>`;
+        }
+        const isDescCol = /descripci/i.test(header);
+        const cls = isDescCol ? 'col-desc' : (c.numeric !== null && NUMERIC_HINT.test(header) ? 'align-right' : '');
+        return `<td class="${cls}">${c.text}</td>`;
+      }).join('') + '</tr>';
+    }).join('');
+  }
+
+  document.getElementById('badge-count').textContent = data.length;
+}
+
+document.getElementById('search').addEventListener('input', render);
+loadData();
+</script>
+</body>
+</html>
