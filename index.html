@@ -43,15 +43,14 @@
     gap: 8px;
   }
   .logo-area { display: flex; align-items: center; gap: 14px; }
-  .logo-badge {
-    width: 42px; height: 42px;
-    background: var(--verde);
-    border-radius: 8px;
-    display: flex; align-items: center; justify-content: center;
-    font-weight: 700; font-size: 16px; color: var(--gris);
-    letter-spacing: -1px;
+  .logo-img-wrap {
+    background: var(--blanco);
+    border-radius: 6px;
+    padding: 6px 10px;
+    display: flex; align-items: center;
     flex-shrink: 0;
   }
+  .logo-img-wrap img { height: 30px; display: block; }
   .logo-text { line-height: 1.2; }
   .logo-text strong { font-size: 17px; font-weight: 700; display: block; }
   .logo-text span { font-size: 11px; font-weight: 300; color: #c8c8cc; }
@@ -150,9 +149,8 @@
 
 <header>
   <div class="logo-area">
-    <div class="logo-badge">IN</div>
+    <div class="logo-img-wrap"><img src="logo.png" alt="Ingeurbe" /></div>
     <div class="logo-text">
-      <strong>Ingeurbe</strong>
       <span>Informe Liquidación de Contratos</span>
     </div>
   </div>
