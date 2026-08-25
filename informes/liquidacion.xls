@@ -112,15 +112,6 @@ classid="clsid:1663ed61-23eb-11d2-b92f-008048fdd814"
 			
          
 		
-			
-         
-		
-			
-         
-		
-			
-         
-		
         
 		
             
@@ -129,1983 +120,389 @@ classid="clsid:1663ed61-23eb-11d2-b92f-008048fdd814"
          
 		
 			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
          <tr>
-            <td align="left">3670027</td>
-            <td align="left">BOUSSOLE INGENIERIA S.A.S</td>
-            <td align="left">21/12/2023</td>
-            <td align="left">31/12/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVICIO TOPOGRAFIA PARA EL PROYECTO TERRA PPTO C (MANZANA 4)</td>            
-            <td align="left">C-PO-01 Contrato Prestación de Servicios obra - CPT</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >102,340,000.00</td>
-            <td align="right" >-5,040,640.00</td>
-            <td align="right" >15,535,191.93</td>
-            <td align="right" >97,299,360.00</td>            
-            <td align="right" >97,299,360.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('42644','3670027');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670028</td>
-            <td align="left">IMPACTO Y ACERO SAS</td>
-            <td align="left">18/01/2024</td>
-            <td align="left">19/02/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECYO TERRA PPTO C (MANZANA 4) - CONSTRUCCION CAMPAMENTO PRELIMINARES</td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPT</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >133,073,570.34</td>
-            <td align="right" >0.00</td>
-            <td align="right" >692,269.19</td>
-            <td align="right" >133,073,570.34</td>            
-            <td align="right" >133,073,570.34</td>
-            <td align="right" >66,536,785.17</td>
-            <td align="right" >66,536,785.17</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('42645','3670028');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670041</td>
-            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
-            <td align="left">10/02/2024</td>
-            <td align="left">31/07/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO  - TERRA PPTO C (MANZANA 4) M.O EMPALMES ROSCADOS TORRE 3,TORRE2, TORRE 1</td>            
-            <td align="left">C-CO-02 Contrato de Construccion Obra cuantia menor</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >12,665,852.55</td>
-            <td align="right" >0.00</td>
-            <td align="right" >61,406.28</td>
-            <td align="right" >12,665,852.55</td>            
-            <td align="right" >12,665,852.55</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('43332','3670041');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670049</td>
-            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
-            <td align="left">02/03/2024</td>
-            <td align="left">30/09/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4)  PROVISIONAL DE OBRA TRAFO 225 KVA.</td>            
-            <td align="left">C-CC-01 Contrato de Construccion - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >219,050,356.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,530,693.92</td>
-            <td align="right" >219,050,356.00</td>            
-            <td align="right" >219,050,356.00</td>
-            <td align="right" >109,525,178.00</td>
-            <td align="right" >109,525,178.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >1,586,143.63</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('43676','3670049');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670055</td>
-            <td align="left">DEXCAM SAS</td>
-            <td align="left">01/04/2024</td>
-            <td align="left">10/03/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4)." EXCAVACIÓN ME CANICA</td>            
-            <td align="left">C-CC-01 Contrato de Construccion - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >469,967,656.25</td>
-            <td align="right" >120,687,779.49</td>
-            <td align="right" >3,981,005.07</td>
-            <td align="right" >590,655,435.74</td>            
-            <td align="right" >590,655,435.74</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >58,667,443.07</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >4,558,696.97</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('43811','3670055');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670058</td>
-            <td align="left">PREFABRICACIONES Y PROYECTOS S A S</td>
-            <td align="left">15/04/2024</td>
-            <td align="left">31/05/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: "TERRA PPTO C (MANZANA 4),  PRELOSAS CIMENTACION T1,T2,T3</td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >16,016,144.65</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >143,608.66</td>
-            <td align="right" >16,016,144.65</td>            
-            <td align="right" >16,016,144.65</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >115,972.90</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('43992','3670058');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670059</td>
-            <td align="left">PREFABRICACIONES Y PROYECTOS S A S</td>
-            <td align="left">15/04/2024</td>
-            <td align="left">31/05/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE PRELOSAS CIMENTACION T1, T2, T3 DEL PROYECTO: "TERRA PPTO C (MANZANA 4), </td>            
-            <td align="left">C-SS-01 Suministros - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >94,038,853.40</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >15,014,606.85</td>
-            <td align="right" >94,038,853.40</td>            
-            <td align="right" >94,038,853.40</td>
-            <td align="right" >28,211,656.02</td>
-            <td align="right" >28,211,656.02</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >680,935.34</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('43994','3670059');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670075</td>
-            <td align="left">REDES E INGENIERIA AMBIENTAL SAS</td>
-            <td align="left">01/05/2024</td>
-            <td align="left">31/10/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4)- CONEXION ACUEDUCTO A TPO </td>            
-            <td align="left">C-CO-02 Contrato de Construccion Obra cuantia menor</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >7,880,828.92</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >50,433.06</td>
-            <td align="right" >7,880,828.92</td>            
-            <td align="right" >7,880,828.92</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('44326','3670075');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670091</td>
-            <td align="left">EINCE SAS</td>
-            <td align="left">01/06/2024</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO INSPECCION RETIE Y RETILAB PROYECTO TERRA PPTO C (MANZANA 4</td>            
-            <td align="left">C-PO-01 Contrato Prestación de Servicios obra - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >108,997,574.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >17,402,974.00</td>
-            <td align="right" >108,997,574.00</td>            
-            <td align="right" >62,253,845.64</td>
-            <td align="right" >32,699,272.20</td>
-            <td align="right" >18,676,153.69</td>
-            <td align="right" >14,023,118.51</td>
-            <td align="right" >5,231,415.60</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >789,251.43</td>
-            <td align="right" >46,743,728.36</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('44825','3670091');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670093</td>
-            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
-            <td align="left">24/06/2024</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4) - CIMENTACION, ESTRUCTURA,MAMPOSTERIA  y PAÑETES TORRE 2</td>            
-            <td align="left">C-CC-01 Contrato de Construccion - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >2,370,933,370.58</td>
-            <td align="right" >486,626,755.50</td>
-            <td align="right" >13,853,953.15</td>
-            <td align="right" >2,857,560,126.08</td>            
-            <td align="right" >2,853,532,538.60</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >71,770,148.22</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >27,144,099.03</td>
-            <td align="right" >4,027,587.48</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('44866','3670093');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670100</td>
-            <td align="left">MEDING METALMECANICA SAS</td>
-            <td align="left">01/07/2024</td>
-            <td align="left">31/12/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left"> SUMINSTRO  CARPINTERIA METALICA PROYECTO TERRA PPTO C (MANZANA 4)</td>            
-            <td align="left">C-SS-01 Suministros - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >19,654,544.56</td>
-            <td align="right" >0.00</td>
-            <td align="right" >3,138,120.56</td>
-            <td align="right" >19,654,544.56</td>            
-            <td align="right" >19,654,544.56</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.40</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >142,318.56</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45148','3670100');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670107</td>
-            <td align="left">MAXIELECTRICOS S.A.S</td>
-            <td align="left">20/07/2024</td>
-            <td align="left">30/12/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4).  ADECUACION REDES ELECTRICAS CAMPAMENTO INTERVENTORIA/ OBRA</td>            
-            <td align="left">C-CC-02 Contrato de Construccion menor cuantía</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >1,615,620.98</td>
-            <td align="right" >0.00</td>
-            <td align="right" >13,123.90</td>
-            <td align="right" >1,615,620.98</td>            
-            <td align="right" >1,615,620.98</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45367','3670107');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670110</td>
-            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
-            <td align="left">26/07/2024</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA - CIMENTACION, ESTRUCTURA,MAMPOSTERIA  y PAÑETES SALON COMUNAL 2</td>            
-            <td align="left">C-CC-01 Contrato de Construccion - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >1,125,292,670.26</td>
-            <td align="right" >262,209,797.48</td>
-            <td align="right" >6,726,855.55</td>
-            <td align="right" >1,387,502,467.74</td>            
-            <td align="right" >1,378,166,533.87</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >137,148,494.06</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >13,001,656.10</td>
-            <td align="right" >9,335,933.87</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45452','3670110');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670111</td>
-            <td align="left">SERVIOGUM SAS</td>
-            <td align="left">02/10/2024</td>
-            <td align="left">29/04/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA (CONSTRUCCIÓN FORMALETA  ESCALERAS Y NEGATIVOS PLACAS)</td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >54,626,736.00</td>
-            <td align="right" >31,608,525.92</td>
-            <td align="right" >917,567.66</td>
-            <td align="right" >86,235,261.92</td>            
-            <td align="right" >86,235,261.92</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >775,572.62</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45504','3670111');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670114</td>
-            <td align="left">REMODELACION PROYECTOS Y TECNOLOGIA S A S</td>
-            <td align="left">01/08/2024</td>
-            <td align="left">29/04/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">Contrato de construcción para el desarrollo del proyecto: "Terra" de adecuación  Mamparas.</td>            
-            <td align="left">C-CC-01 Contrato de Construccion - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >126,809,800.00</td>
-            <td align="right" >26,058,158.00</td>
-            <td align="right" >1,012,370.58</td>
-            <td align="right" >152,867,958.00</td>            
-            <td align="right" >152,867,958.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >6,669,000.00</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >1,300,147.79</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45595','3670114');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670115</td>
-            <td align="left">REMODELACION PROYECTOS Y TECNOLOGIA S A S</td>
-            <td align="left">01/08/2024</td>
-            <td align="left">02/03/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">Suministro de equipos (sistema de protección mamparas) para el proyecto Terra</td>            
-            <td align="left">C-SS-01 Suministros - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >173,084,667.00</td>
-            <td align="right" >86,762,910.00</td>
-            <td align="right" >41,488,268.60</td>
-            <td align="right" >259,847,577.00</td>            
-            <td align="right" >259,847,577.00</td>
-            <td align="right" >86,542,333.50</td>
-            <td align="right" >86,542,333.50</td>
-            <td align="right" >0.00</td>
-            <td align="right" >21,835,930.84</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >1,895,929.11</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45596','3670115');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670125</td>
-            <td align="left">CONSTRUCCIONES Y ACABADOS L&Y SAS</td>
-            <td align="left">15/08/2024</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: "TERRA PPTO C (MANZANA 4)",ESTRUCTURA TORRES 3. </td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >2,176,635,262.67</td>
-            <td align="right" >395,627,631.71</td>
-            <td align="right" >8,855,407.68</td>
-            <td align="right" >2,572,262,894.38</td>            
-            <td align="right" >2,572,262,894.38</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >75,125,864.93</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('45690','3670125');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670138</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">01/09/2024</td>
-            <td align="left">31/10/2024</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO  RED PROVISIONAL A TORRES  Y BAÑOS  CAMPAMENTOS DEL PROYECTO: "TERRA PPTO C (MZ 4)". </td>            
-            <td align="left">C-SS-02 Suministro cuantia menor</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >4,853,032.01</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >774,853.85</td>
-            <td align="right" >4,853,032.01</td>            
-            <td align="right" >4,853,032.01</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46038','3670138');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670140</td>
-            <td align="left">SEBCO S.A.S.</td>
-            <td align="left">22/08/2024</td>
-            <td align="left">30/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">ALQUILER EQUIPO BOMBA DE CONCRETO SALON COMUNAL 2, TORRE 1 PARA EL  PROYECTO TERRA  </td>            
-            <td align="left">C-CA-01 Contrato de Alquiler - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >226,100,000.00</td>
-            <td align="right" >43,450,600.60</td>
-            <td align="right" >43,037,490.85</td>
-            <td align="right" >269,550,600.60</td>            
-            <td align="right" >269,550,600.60</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >2,082,333.47</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46053','3670140');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670149</td>
-            <td align="left">CASETON MARCO UMBA S A S</td>
-            <td align="left">21/09/2024</td>
-            <td align="left">09/06/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4) -  CASETON ICOPOR
-</td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >170,294,947.10</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,458,136.10</td>
-            <td align="right" >170,294,947.10</td>            
-            <td align="right" >160,893,587.75</td>
-            <td align="right" >51,088,484.13</td>
-            <td align="right" >48,268,076.32</td>
-            <td align="right" >2,820,407.80</td>
-            <td align="right" >15,951,595.00</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >1,233,105.71</td>
-            <td align="right" >9,401,359.35</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46175','3670149');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670157</td>
-            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
-            <td align="left">23/10/2024</td>
-            <td align="left">05/01/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">Contrato de construcción para el desarrollo del proyecto: Terra Ppto C (Manzana 4)
-Remates y Acabados
-</td>            
-            <td align="left">C-CO-02 Contrato de Construccion Obra cuantia menor</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >32,533,223.00</td>
-            <td align="right" >6,435,580.70</td>
-            <td align="right" >313,864.89</td>
-            <td align="right" >38,968,803.70</td>            
-            <td align="right" >38,968,803.70</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >638,374.69</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46435','3670157');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670163</td>
-            <td align="left">MAXIELECTRICOS S.A.S</td>
-            <td align="left">09/11/2025</td>
-            <td align="left">08/08/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO TERRA (INFRAESTRUCTURA CCTV Y RETENCION DE INCENDIO)</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
-            <td align="left">Abierto</td>
-            <td align="right" >35,789,223.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >5,714,245.69</td>
-            <td align="right" >35,789,223.00</td>            
-            <td align="right" >35,789,223.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >3,007,497.73</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >259,149.76</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46624','3670163');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670168</td>
-            <td align="left">CEIMP SAS</td>
-            <td align="left">01/12/2024</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C(MANZANA 4)-IMPERMEABILIZACION TORRE 3, TANQUE SUDS </td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >16,825,030.70</td>
-            <td align="right" >1,813,750.00</td>
-            <td align="right" >152,711.01</td>
-            <td align="right" >18,638,780.70</td>            
-            <td align="right" >14,516,750.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,439,781.16</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >121,818.84</td>
-            <td align="right" >4,122,030.70</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46711','3670168');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670169</td>
-            <td align="left">CEIMP SAS</td>
-            <td align="left">01/12/2024</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO  IMPERMEABILIZACION TORRE 3, TANQUE SUDS  DEL PROYECTO: TERRA PPTO C(MANZANA 4)</td>            
-            <td align="left">C-SS-01 Suministros - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >59,880,321.70</td>
-            <td align="right" >5,098,400.00</td>
-            <td align="right" >10,374,753.88</td>
-            <td align="right" >64,978,721.70</td>            
-            <td align="right" >55,501,700.00</td>
-            <td align="right" >17,964,096.00</td>
-            <td align="right" >16,650,510.00</td>
-            <td align="right" >1,313,586.00</td>
-            <td align="right" >4,664,008.40</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >433,566.74</td>
-            <td align="right" >9,477,021.70</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46715','3670169');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670171</td>
-            <td align="left">FENESTRA INC S A S</td>
-            <td align="left">01/01/2025</td>
-            <td align="left">31/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4) VENTANERIA EN ALUMINIO PARA LAS TORRES 1, 2 Y 3</td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Abierto</td>
-            <td align="right" >424,418,543.20</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >7,206,391.71</td>
-            <td align="right" >424,418,543.20</td>            
-            <td align="right" >409,274,686.48</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >40,232,542.91</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >3,073,214.67</td>
-            <td align="right" >15,143,856.72</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46735','3670171');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670172</td>
-            <td align="left">MAXIELECTRICOS S.A.S</td>
-            <td align="left">09/11/2025</td>
-            <td align="left">08/08/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4) (INFRAESTRUCTURA CCTV Y RETENCION DE INCENDIO)</td>            
-            <td align="left">PG - Construcción 2% 6.9 </td>
-            <td align="left">Abierto</td>
-            <td align="right" >7,097,206.00</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >57,651.52</td>
-            <td align="right" >7,097,206.00</td>            
-            <td align="right" >7,097,206.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >703,955.45</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >51,390.87</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46737','3670172');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670177</td>
-            <td align="left">SERVIOGUM SAS</td>
-            <td align="left">07/01/2025</td>
-            <td align="left">16/06/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE ANGULOS PARA ENCHAPE EN MAMPOSTERIA DE PLACA TORRES 3 Y 2</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 11.04 Suministro</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >21,491,390.48</td>
-            <td align="right" >-1,020,335.18</td>
-            <td align="right" >3,268,487.82</td>
-            <td align="right" >20,471,055.30</td>            
-            <td align="right" >20,471,055.30</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >155,619.15</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46845','3670177');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670178</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">01/02/2025</td>
-            <td align="left">15/09/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: "TERRA PPTO C (MZ 4) GEODREN SALON COMUNAL 2</td>            
-            <td align="left">PG - Construcción 2% 6.9 </td>
-            <td align="left">Cerrado</td>
-            <td align="right" >29,052,396.23</td>
-            <td align="right" >-2,221,539.90</td>
-            <td align="right" >158,367.90</td>
-            <td align="right" >26,830,856.33</td>            
-            <td align="right" >26,830,856.33</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,667,248.84</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >210,368.40</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46846','3670178');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670180</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">01/02/2025</td>
-            <td align="left">14/09/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO GEODREN  SALON COMUNAL 2
-</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >43,082,991.69</td>
-            <td align="right" >0.00</td>
-            <td align="right" >6,878,796.99</td>
-            <td align="right" >43,082,991.69</td>            
-            <td align="right" >43,082,991.69</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >3,620,419.47</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >311,963.94</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46857','3670180');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670185</td>
-            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
-            <td align="left">06/12/2024</td>
-            <td align="left">30/07/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO - TERRA PPTO C (MANZANA 4) CONSTRUCCION TANQUE SUD Y BASE TORRE GRUA</td>            
-            <td align="left">C-CO-01 Contrato de Construccion Obra - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >28,317,453.05</td>
-            <td align="right" >-1,061,740.40</td>
-            <td align="right" >132,140.48</td>
-            <td align="right" >27,255,712.65</td>            
-            <td align="right" >27,255,712.65</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >205,046.68</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('46894','3670185');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670196</td>
-            <td align="left">CONSTRUCCIONES Y ACABADOS NJ SAS</td>
-            <td align="left">15/01/2025</td>
-            <td align="left">31/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: "TERRA PPTO C (MANZANA 4)" ENCHAPE AFINADOS TORRE 2"</td>            
-            <td align="left">PT - Construcción de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >355,422,312.62</td>
-            <td align="right" >64,186,960.89</td>
-            <td align="right" >2,143,741.92</td>
-            <td align="right" >419,609,273.51</td>            
-            <td align="right" >418,542,370.94</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >41,640,407.97</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >2,293,107.31</td>
-            <td align="right" >1,066,902.57</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47173','3670196');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670207</td>
-            <td align="left">METARCO SAS</td>
-            <td align="left">18/02/2025</td>
-            <td align="left">09/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4) DUCTOS METÁLICOS CALENTADOR APARTAMENTOS T2</td>            
-            <td align="left">PG - Construcción 2% 7.60</td>
-            <td align="left">Abierto</td>
-            <td align="right" >25,850,054.88</td>
-            <td align="right" >0.00</td>
-            <td align="right" >177,374.88</td>
-            <td align="right" >25,850,054.88</td>            
-            <td align="right" >25,318,385.57</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,514,465.88</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >187,180.25</td>
-            <td align="right" >531,669.31</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47542','3670207');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670208</td>
-            <td align="left">METARCO SAS</td>
-            <td align="left">18/02/2025</td>
-            <td align="left">08/08/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINSTRO DE DUCTOS METÁLICOS CALENTADOR APARTAMENTOS T2 
- PROYECTO: TERRA PPTO C (MANZANA 4). </td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
-            <td align="left">Abierto</td>
-            <td align="right" >117,238,309.73</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >18,718,721.72</td>
-            <td align="right" >117,238,309.73</td>            
-            <td align="right" >113,591,306.18</td>
-            <td align="right" >35,171,492.92</td>
-            <td align="right" >34,077,391.86</td>
-            <td align="right" >1,094,101.06</td>
-            <td align="right" >9,545,487.91</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >848,922.60</td>
-            <td align="right" >3,647,003.54</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47543','3670208');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670221</td>
-            <td align="left">MEDING METALMECANICA SAS</td>
-            <td align="left">01/05/2025</td>
-            <td align="left">12/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: " TERRA PPTO C (MANZANA 4)" PUERTAS   PARA BAÑOS APARTAMENTOS TORRE 3, 2 Y 1
-
-</td>            
-            <td align="left">PG - Construcción 2% 7.60</td>
-            <td align="left">Abierto</td>
-            <td align="right" >42,498,288.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >363,888.00</td>
-            <td align="right" >42,498,288.00</td>            
-            <td align="right" >25,303,257.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,508,660.00</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >307,730.10</td>
-            <td align="right" >17,195,031.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47805','3670221');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670223</td>
-            <td align="left">ALALCO SOCIEDAD SAS</td>
-            <td align="left">10/03/2025</td>
-            <td align="left">14/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO PUERTAS CORTAFUEGO TORRES, COMUNALES Y ESCALERA ENTRE TORRE 3 Y 2</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 11.04 Suministro</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >255,879,750.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >40,854,750.00</td>
-            <td align="right" >255,879,750.00</td>            
-            <td align="right" >255,879,750.00</td>
-            <td align="right" >76,763,925.00</td>
-            <td align="right" >76,763,925.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >21,502,500.00</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >1,852,825.27</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47809','3670223');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670231</td>
-            <td align="left">SUR ALTURAS SAS </td>
-            <td align="left">05/06/2025</td>
-            <td align="left">17/06/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4) REMATES, LAVADO E IMPERMEABILIZACION DE  FACHADAS T2 </td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >58,030,042.46</td>
-            <td align="right" >7,882,662.56</td>
-            <td align="right" >327,923.91</td>
-            <td align="right" >65,912,705.02</td>            
-            <td align="right" >64,336,583.02</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >6,401,650.05</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >655,882.65</td>
-            <td align="right" >1,576,122.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47859','3670231');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670232</td>
-            <td align="left">SUR ALTURAS SAS </td>
-            <td align="left">15/06/2025</td>
-            <td align="left">21/01/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4) REMATES, LAVADO E IMPERMEABILIZACION DE  FACHADAS T3</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >56,377,063.30</td>
-            <td align="right" >0.00</td>
-            <td align="right" >280,482.90</td>
-            <td align="right" >56,377,063.30</td>            
-            <td align="right" >54,987,412.74</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >585,560.96</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >408,226.32</td>
-            <td align="right" >1,389,650.56</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47860','3670232');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670234</td>
-            <td align="left">CONSTRUCCIONES Y ACABADOS NJ SAS</td>
-            <td align="left">15/06/2025</td>
-            <td align="left">15/10/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO: "TERRA RELLENO EN RECEBO COMPACTADO CONTRA MUROS DE CONTECCIÓN.SALON C2</td>            
-            <td align="left">PG - Construcción Obra 2% 6.9 FIC</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >24,339,190.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >124,346.49</td>
-            <td align="right" >24,339,190.00</td>            
-            <td align="right" >24,339,190.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,421,484.35</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >176,240.07</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47862','3670234');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670253</td>
-            <td align="left">SUR ALTURAS SAS </td>
-            <td align="left">28/04/2025</td>
-            <td align="left">17/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA LA ESTRUCTURA  DEL SALON COMUNAL 1 OBRA TERRA
-</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >56,145,134.10</td>
-            <td align="right" >-20,979,400.12</td>
-            <td align="right" >174,953.90</td>
-            <td align="right" >35,165,733.98</td>            
-            <td align="right" >35,165,733.98</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >3,499,078.01</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >406,546.92</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48141','3670253');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670254</td>
-            <td align="left">MUNDIAL DE VIDRIOS Y ACCESORIOS SAS</td>
-            <td align="left">24/04/2025</td>
-            <td align="left">14/08/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE ESPEJOS SEGÚN ESPECIFICACIONES PARA EL DESARROLLO DEL PROYECTO TERRA. T3,2,1
-</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 11.04 Suministro</td>
-            <td align="left">Abierto</td>
-            <td align="right" >72,430,316.28</td>
-            <td align="right" >0.00</td>
-            <td align="right" >11,564,504.28</td>
-            <td align="right" >72,430,316.28</td>            
-            <td align="right" >71,547,997.92</td>
-            <td align="right" >28,972,126.51</td>
-            <td align="right" >28,619,199.17</td>
-            <td align="right" >352,927.34</td>
-            <td align="right" >6,012,436.80</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >524,467.92</td>
-            <td align="right" >882,318.36</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48174','3670254');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670255</td>
-            <td align="left">VANO S.A.S</td>
-            <td align="left">02/05/2025</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFEERTA MERCANTIL DE SUMINISTRO VENTANEERIA  SALÓN  COMUNAL 1 Y 2 OBRA TERRA	</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
-            <td align="left">Abierto</td>
-            <td align="right" >279,123,152.03</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >44,565,881.42</td>
-            <td align="right" >279,123,152.03</td>            
-            <td align="right" >252,405,137.00</td>
-            <td align="right" >139,561,576.01</td>
-            <td align="right" >126,202,568.50</td>
-            <td align="right" >13,359,007.51</td>
-            <td align="right" >21,210,515.71</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >2,021,130.74</td>
-            <td align="right" >26,718,015.02</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48175','3670255');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670257</td>
-            <td align="left">MUNDIAL DE VIDRIOS Y ACCESORIOS SAS</td>
-            <td align="left">24/04/2025</td>
-            <td align="left">06/08/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO DE INSTALACIÓN DE  ESPEJOS SEGÚN ESPECIFICACIONES PARA EL DESARROLLO DEL PROYECTO: "TERRA PPTO C (MANZANA 4) T 3,2,1 
-
-</td>            
-            <td align="left">PG - Servicios 4 - 6% - 9.66</td>
-            <td align="left">Abierto</td>
-            <td align="right" >13,543,194.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,162,358.71</td>
-            <td align="right" >13,543,194.00</td>            
-            <td align="right" >8,893,814.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >747,379.33</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >98,066.27</td>
-            <td align="right" >4,649,380.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48177','3670257');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670281</td>
-            <td align="left">DEXCAM SAS</td>
-            <td align="left">15/09/2025</td>
-            <td align="left">31/10/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL  DE CONSTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4).COMPACTACIÓN SUBBASE PLACA DE CONTRAPISO SALON COMUNAL 2</td>            
-            <td align="left">PG - Construcción 2% 6.9 FIC</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >36,141,625.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >243,593.78</td>
-            <td align="right" >36,141,625.00</td>            
-            <td align="right" >36,141,625.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >3,589,803.12</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >261,701.51</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48978','3670281');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670298</td>
-            <td align="left">SUR ALTURAS SAS </td>
-            <td align="left">01/08/2025</td>
+            <td align="left">4060003</td>
+            <td align="left">DEMOLICIONES EXCAVACIONES Y CONSTRUCCIONES NUEVO RELAMPAGO S.A.S</td>
+            <td align="left">17/02/2025</td>
             <td align="left">31/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION  PARA EL DESARROLLO  DEL  PROYECTO TERRA: ESTRUCTURA  DE MODULO ESCALERAS  T3 Y T2 </td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - RELLENOS </td>            
+            <td align="left">PT - Construcción 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >23,648,128.36</td>
-            <td align="right" >-21,468,521.86</td>
-            <td align="right" >10,843.81</td>
-            <td align="right" >2,179,606.49</td>            
-            <td align="right" >2,179,606.49</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >216,876.27</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >171,236.10</td>
+            <td align="right" >1,642,951,126.08</td>
+            <td align="right" >130,262,513.24</td>
+            <td align="right" >12,058,360.47</td>
+            <td align="right" >1,773,213,639.32</td>            
+            <td align="right" >1,773,213,639.32</td>
+            <td align="right" >410,737,781.52</td>
+            <td align="right" >410,737,781.52</td>
             <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49420','3670298');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670305</td>
-            <td align="left">CONSTRUASEO RODRIGUEZ S.A.S</td>
-            <td align="left">01/10/2025</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA ACABADOS Y REMATES (EMBOQUILLADA DE VENTANAS TORRE 3 Y 2)</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >74,947,430.50</td>
-            <td align="right" >9,114,022.26</td>
-            <td align="right" >433,345.65</td>
-            <td align="right" >84,061,452.76</td>            
-            <td align="right" >47,195,080.30</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >4,695,178.47</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >608,688.98</td>
-            <td align="right" >36,866,372.46</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49999','3670305');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670306</td>
-            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
-            <td align="left">01/09/2025</td>
-            <td align="left">23/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERRA MERCANTIL SUMINISTRO PROVISIONAL  ASCENSORES TORRE 3 Y 2 (TERRA PPTO C (MANZANA 4)</td>            
-            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >7,457,338.37</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,190,667.47</td>
-            <td align="right" >7,457,338.37</td>            
-            <td align="right" >7,457,338.37</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >626,667.09</td>
+            <td align="right" >0.01</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50001','3670306');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47471','4060003');"></i>
             </td>
         </tr>
 		
 			
          <tr>
-            <td align="left">3670307</td>
+            <td align="left">4060004</td>
+            <td align="left">BOUSSOLE INGENIERIA S.A.S</td>
+            <td align="left">17/02/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVICIO DE TOPOGRAFIA PARA EL PROYECTO NATIVA Y SUPERVISION TECNICA DEL PROYECTO</td>            
+            <td align="left">PT - Honorarios 10 - 11% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >112,931,000.00</td>
+            <td align="right" >8,163,400.00</td>
+            <td align="right" >19,334,400.00</td>
+            <td align="right" >121,094,400.00</td>            
+            <td align="right" >121,094,400.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,088,000.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47563','4060004');"></i>
+            </td>
+        </tr>
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         <tr>
+            <td align="left">4060041</td>
             <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
-            <td align="left">01/09/2025</td>
-            <td align="left">23/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL  DE CONSTRUCCION PARA EL  DESARROLLO DEL PROYECTO: TERRA PPTO C MANZANA 4 (PROVISIONAL ASCENSORES TORRE 3 Y 2)</td>            
+            <td align="left">12/05/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL PROYECTO NATIVA RED PROVISIONAL ELECTRICA</td>            
+            <td align="left">PT - Construcción 2% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >126,675,674.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >910,301.74</td>
+            <td align="right" >126,675,674.00</td>            
+            <td align="right" >126,675,674.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.01</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48225','4060041');"></i>
+            </td>
+        </tr>
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         <tr>
+            <td align="left">4060055</td>
+            <td align="left">PREFABRICACIONES Y PROYECTOS S A S</td>
+            <td align="left">01/07/2025</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL PROYECTO NATIVA, PRELOSAS TORRES 4 Y 5</td>            
+            <td align="left">PT - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >56,089,800.00</td>
+            <td align="right" >3,380,569.00</td>
+            <td align="right" >533,240.68</td>
+            <td align="right" >59,470,369.00</td>            
+            <td align="right" >59,470,369.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,893,712.83</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48736','4060055');"></i>
+            </td>
+        </tr>
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         <tr>
+            <td align="left">4060060</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
+            <td align="left">12/06/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL PROYECTO NATIVA ADECUACIONES ELECTRICAS CAMPAMENTO</td>            
+            <td align="left">SP - Construcción 2% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >15,203,297.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >99,814.32</td>
+            <td align="right" >15,203,297.00</td>            
+            <td align="right" >15,203,297.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,510,348.27</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48778','4060060');"></i>
+            </td>
+        </tr>
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         <tr>
+            <td align="left">4060083</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">01/08/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO CARPINTERIA METALICA PARA EL PROYECTO NATIVA</td>            
+            <td align="left">PT - Compra 2.5 - 3.5% 6.9 Suministro</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >27,644,300.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >4,413,795.80</td>
+            <td align="right" >27,644,300.00</td>            
+            <td align="right" >27,644,300.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,323,050.42</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49418','4060083');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060084</td>
+            <td align="left">REDES E INGENIERIA AMBIENTAL SAS</td>
+            <td align="left">04/08/2025</td>
+            <td align="left">30/09/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA REDES HIDRAULICAS DE BAÑOS CAMPAMENTO</td>            
             <td align="left">SP - Construcción de obra menor cuantia 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >3,472,768.00</td>
+            <td align="right" >3,925,278.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >22,412.57</td>
-            <td align="right" >3,472,768.00</td>            
-            <td align="right" >3,472,768.00</td>
+            <td align="right" >25,119.66</td>
+            <td align="right" >3,925,278.00</td>            
+            <td align="right" >3,925,278.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >345,035.54</td>
+            <td align="right" >390,015.83</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50004','3670307');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670313</td>
-            <td align="left">ASESORIA SOLUCIONES Y APLICACIONES ASA E U</td>
-            <td align="left">24/10/2025</td>
-            <td align="left">30/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL  DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO TERRA KR.32 # 22-30 (IMPERMEABILIZIACION PARASEAL  SALON COMUNAL 2)</td>            
-            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >12,079,476.05</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,928,655.84</td>
-            <td align="right" >12,079,476.05</td>            
-            <td align="right" >12,079,476.05</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,015,082.02</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50213','3670313');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49483','4060084');"></i>
             </td>
         </tr>
 		
 			
          <tr>
-            <td align="left">3670314</td>
-            <td align="left">ASESORIA SOLUCIONES Y APLICACIONES ASA E U</td>
-            <td align="left">24/10/2025</td>
-            <td align="left">30/12/2025</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DELPROYECTO TERRA PPTO C (MANZANA 4) KR.32 # 22-30 (IMPERMEABILIZIACION PARASEAL SALON COMUNAL 2)</td>            
-            <td align="left">SP - Construcción 2% 7.60</td>
+            <td align="left">4060085</td>
+            <td align="left">REDES E INGENIERIA AMBIENTAL SAS</td>
+            <td align="left">04/08/2025</td>
+            <td align="left">30/09/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO NATIVA REDES HIDRAULICAS DE BAÑOS CAMPAMENTO</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
             <td align="left">Cerrado</td>
-            <td align="right" >7,388,896.12</td>
+            <td align="right" >5,480,909.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >60,538.61</td>
-            <td align="right" >7,388,896.12</td>            
-            <td align="right" >7,388,896.12</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >732,835.75</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50214','3670314');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670315</td>
-            <td align="left">IGNACIO GOMEZ IHM SAS</td>
-            <td align="left">22/01/2025</td>
-            <td align="left">16/02/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE EQUIPO DE PRESION Y EYECTORES PARA EL PROYECTO TERRA PPTO C (MANZANA 4) Duplicado</td>            
-            <td align="left">C-SS-01 Suministros - CPG</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >68,163,200.01</td>
-            <td align="right" >-10,323,200.01</td>
-            <td align="right" >0.00</td>
-            <td align="right" >57,840,000.01</td>            
-            <td align="right" >57,840,000.01</td>
+            <td align="right" >875,103.12</td>
+            <td align="right" >5,480,909.00</td>            
+            <td align="right" >5,480,909.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >21,292,000.00</td>
+            <td align="right" >460,580.59</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
             <td align="right" >-0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50308','3670315');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49484','4060085');"></i>
             </td>
         </tr>
 		
 			
+         
+		
+			
+         
+		
+			
+         
+		
+			
          <tr>
-            <td align="left">3670316</td>
-            <td align="left">IGNACIO GOMEZ IHM SAS</td>
-            <td align="left">22/01/2025</td>
-            <td align="left">16/02/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE EQUIPO CONTRA INCENDIO PARA EL PROYECTO TERRA PPTO C (MANZANA 4) Duplicado</td>            
-            <td align="left">C-SS-01 Suministros - CPG</td>
+            <td align="left">4060096</td>
+            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
+            <td align="left">22/09/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA CAMPAMENTOS DE OBRA</td>            
+            <td align="left">PT - Construcción de obra 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >92,577,836.27</td>
-            <td align="right" >-21,297,836.26</td>
+            <td align="right" >52,536,079.84</td>
             <td align="right" >0.00</td>
-            <td align="right" >71,280,000.01</td>            
-            <td align="right" >71,280,000.01</td>
+            <td align="right" >254,704.14</td>
+            <td align="right" >52,536,079.84</td>            
+            <td align="right" >52,536,079.84</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >18,705,999.89</td>
+            <td align="right" >5,228,137.57</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50311','3670316');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670317</td>
-            <td align="left">H S A TECNOCONSTRUCCIONES LTDA</td>
-            <td align="left">01/10/2025</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4 KR.32 # 22-30) MUROS EN PVC PARA EL SALON COMUNAL 2</td>            
-            <td align="left">PG - Construcción 2% 7.60</td>
-            <td align="left">Abierto</td>
-            <td align="right" >23,693,353.38</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >189,228.13</td>
-            <td align="right" >23,693,353.38</td>            
-            <td align="right" >23,693,353.38</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,350,412.53</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >171,563.57</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50383','3670317');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670318</td>
-            <td align="left">H S A TECNOCONSTRUCCIONES LTDA</td>
-            <td align="left">01/10/2025</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL SUMINISTRO  PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4/KR.32 # 22-30) (MUROS EN PVC PARA EL SALON COMUNAL 2</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 11.04 Suministro</td>
-            <td align="left">Abierto</td>
-            <td align="right" >25,678,586.45</td>
-            <td align="right" >0.00</td>
-            <td align="right" >4,099,942.37</td>
-            <td align="right" >25,678,586.45</td>            
-            <td align="right" >25,678,586.45</td>
-            <td align="right" >7,703,575.93</td>
-            <td align="right" >7,703,575.93</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,157,864.41</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >185,938.64</td>
             <td align="right" >0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50385','3670318');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50225','4060096');"></i>
             </td>
         </tr>
 		
@@ -2113,30 +510,33 @@ Remates y Acabados
          
 		
 			
+         
+		
+			
          <tr>
-            <td align="left">3670322</td>
-            <td align="left">MAOG PISOS INDUSTRIALES Y CONSTRUCCIONES S.A.S</td>
+            <td align="left">4060101</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
             <td align="left">01/10/2025</td>
-            <td align="left">31/03/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA  KR.32 # 22-30 (LOSA DE CONTRAPISO, AFINADA CON ALLANADORA Y DILATACIONES CORTA</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA DE REDES ELECTRICAS OBRA Y TORRE GRUA</td>            
+            <td align="left">PMR - Construcción Obra 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >38,983,089.60</td>
-            <td align="right" >4,068,575.00</td>
-            <td align="right" >295,406.87</td>
-            <td align="right" >43,051,664.60</td>            
-            <td align="right" >43,051,664.60</td>
+            <td align="right" >90,056,878.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >581,209.47</td>
+            <td align="right" >90,056,878.00</td>            
+            <td align="right" >90,056,878.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >3,871,560.00</td>
+            <td align="right" >8,947,566.85</td>
                        
                  <td align="right"  >0.00</td> 
             
-              <td align="right" >311,737.10</td>
-            <td align="right" >-0.00</td>
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50456','3670322');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50396','4060101');"></i>
             </td>
         </tr>
 		
@@ -2150,58 +550,75 @@ Remates y Acabados
          
 		
 			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
          <tr>
-            <td align="left">3670326</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">01/10/2025</td>
-            <td align="left">27/01/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO TERRA (RED PROVISIONAL ACUEDUCTO Y ALCANTARILLADO)</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
+            <td align="left">4060135</td>
+            <td align="left">AD CONSTRUCCIONES A SAS</td>
+            <td align="left">20/01/2026</td>
+            <td align="left">28/02/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - ACTIVIDADES ADCIONALES DE CIMENTACION, ESTRUCTURA Y MAMPOSTERIA TORRE 5</td>            
+            <td align="left">SP - Construcción de obra menor cuantia 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >41,836,062.00</td>
+            <td align="right" >3,588,940.02</td>
             <td align="right" >0.00</td>
-            <td align="right" >6,679,707.38</td>
-            <td align="right" >41,836,062.00</td>            
-            <td align="right" >41,836,062.00</td>
+            <td align="right" >23,360.69</td>
+            <td align="right" >3,588,940.02</td>            
+            <td align="right" >3,588,940.02</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >3,515,635.46</td>
+            <td align="right" >356,557.93</td>
                        
                  <td align="right"  >0.00</td> 
             
-              <td align="right" >302,934.92</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50466','3670326');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670327</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">01/10/2025</td>
-            <td align="left">29/01/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA (RED PROVISIONAL ACUEDUCTO Y ALCANTARILLADO) </td>            
-            <td align="left">PG - Construcción 2% 6.9 FIC</td>
-            <td align="left">Cerrado</td>
-            <td align="right" >109,553,625.64</td>
-            <td align="right" >0.00</td>
-            <td align="right" >646,635.26</td>
-            <td align="right" >109,553,625.64</td>            
-            <td align="right" >109,553,625.64</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >10,890,699.04</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >793,277.80</td>
+              <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50467','3670327');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51352','4060135');"></i>
             </td>
         </tr>
 		
@@ -2209,419 +626,152 @@ Remates y Acabados
          
 		
 			
-         <tr>
-            <td align="left">3670329</td>
-            <td align="left">IMPACTO Y ACERO SAS</td>
-            <td align="left">29/10/2025</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECYO TERRA PPTO C (MANZANA 4) DESMONTE, TRASLADO Y MONTAJE DE CAMPAMENTO </td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >37,000,745.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >189,033.12</td>
-            <td align="right" >37,000,745.00</td>            
-            <td align="right" >37,000,745.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >3,681,171.18</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >267,922.39</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50797','3670329');"></i>
-            </td>
-        </tr>
-		
-			
          
 		
 			
          <tr>
-            <td align="left">3670331</td>
-            <td align="left">CONSTRUASEO RODRIGUEZ S.A.S</td>
-            <td align="left">01/11/2025</td>
-            <td align="left">30/06/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTOC (MANZANA 4 ) IMPERMEABILIZACION DE LAVADA FACCHADA SC 1 Y SC2</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >35,029,478.14</td>
-            <td align="right" >5,079,281.43</td>
-            <td align="right" >206,764.88</td>
-            <td align="right" >40,108,759.58</td>            
-            <td align="right" >11,659,732.94</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,159,962.58</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >290,427.53</td>
-            <td align="right" >28,449,026.64</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50827','3670331');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670336</td>
-            <td align="left">M & N ACABADOS ARQUITECTONICOS SAS</td>
-            <td align="left">01/11/2025</td>
-            <td align="left">30/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4), PINTURA Y GRANIPLAST SC 2
-</td>            
-            <td align="left">PG - Construcción de obra 2% 7.60</td>
-            <td align="left">Abierto</td>
-            <td align="right" >45,494,271.41</td>
-            <td align="right" >0.00</td>
-            <td align="right" >306,630.42</td>
-            <td align="right" >45,494,271.41</td>            
-            <td align="right" >7,042,461.09</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >699,499.51</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >239,424.02</td>
-            <td align="right" >38,451,810.32</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50833','3670336');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670344</td>
+            <td align="left">4060140</td>
             <td align="left">MEDING METALMECANICA SAS</td>
-            <td align="left">05/11/2025</td>
-            <td align="left">01/06/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO TERRA PPTO C (MANZANA 4)  POSTES METALICOS CERRAMIENTO  PROVISIONAL ELECTRICA TORRE 3</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
+            <td align="left">15/12/2025</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA CERRAMIENTO PERIMETRAL NORTE, OCCIDENTE Y SUR</td>            
+            <td align="left">SP - Construcción de obra menor cuantia 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >17,136,000.00</td>
+            <td align="right" >8,437,634.24</td>
             <td align="right" >0.00</td>
-            <td align="right" >2,736,000.00</td>
-            <td align="right" >17,136,000.00</td>            
-            <td align="right" >17,136,000.00</td>
+            <td align="right" >72,246.53</td>
+            <td align="right" >8,437,634.24</td>            
+            <td align="right" >8,437,634.24</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >1,440,000.00</td>
+            <td align="right" >836,538.77</td>
                        
                  <td align="right"  >0.00</td> 
             
-              <td align="right" >124,081.78</td>
-            <td align="right" >0.00</td>
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50893','3670344');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51439','4060140');"></i>
             </td>
         </tr>
 		
 			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
+		
+			
          <tr>
-            <td align="left">3670350</td>
-            <td align="left">MAXIELECTRICOS S.A.S</td>
-            <td align="left">25/11/2025</td>
-            <td align="left">09/02/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL  PROYECTO TERRA (TABLEROS DE DISTRIBUCION Y ACCESORIO ELECTROBARRA T3 T2)</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
+            <td align="left">4060159</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">27/01/2026</td>
+            <td align="left">30/04/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA CARPINTERIA METALICA CAMPAMENTO Y CASINO</td>            
+            <td align="left">PMR - Construcción 2% 6.9</td>
             <td align="left">Cerrado</td>
-            <td align="right" >70,043,955.00</td>
-            <td align="right" >-6,545,332.38</td>
-            <td align="right" >10,138,435.54</td>
-            <td align="right" >63,498,622.62</td>            
-            <td align="right" >63,498,622.62</td>
+            <td align="right" >36,686,727.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >314,127.00</td>
+            <td align="right" >36,686,727.00</td>            
+            <td align="right" >36,686,727.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >5,336,018.71</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >507,188.28</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51206','3670350');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670360</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">02/03/2026</td>
-            <td align="left">30/05/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO TERRA (RED ADICIONAL RCI URBANISMO Y TORRE 2)</td>            
-            <td align="left">PG - Compra 2.5 - 3.5% 6.9 Suministro</td>
-            <td align="left">Abierto</td>
-            <td align="right" >35,387,314.16</td>
-            <td align="right" >0.00</td>
-            <td align="right" >5,650,075.37</td>
-            <td align="right" >35,387,314.16</td>            
-            <td align="right" >35,387,314.16</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,973,723.88</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >256,239.54</td>
-            <td align="right" >-0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51602','3670360');"></i>
-            </td>
-        </tr>
-		
-			
-         <tr>
-            <td align="left">3670361</td>
-            <td align="left">IHC LTDA INGENIERIA HIDRAULICA Y CIVIL</td>
-            <td align="left">02/03/2026</td>
-            <td align="left">30/05/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO TERRA (RED ADICIONAL  RCI URBANISMO  Y TORRE 2)</td>            
-            <td align="left">PG - Construcción 2% 6.9 FIC</td>
-            <td align="left">Abierto</td>
-            <td align="right" >16,218,958.34</td>
-            <td align="right" >0.00</td>
-            <td align="right" >95,731.66</td>
-            <td align="right" >16,218,958.34</td>            
-            <td align="right" >16,218,958.34</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,612,322.67</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >117,441.48</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51610','3670361');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670368</td>
-            <td align="left">RMCONSTRUOB SAS</td>
-            <td align="left">27/03/2026</td>
-            <td align="left">20/06/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO.PROYECTO TERRA (LAVADO IMPERMEABILIZACIÓN DE FACHADAS, ASEO DE VENTANAS Y EMBOQUILLES PUERTAS T1)</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >93,256,271.41</td>
-            <td align="right" >0.01</td>
-            <td align="right" >480,745.90</td>
-            <td align="right" >93,256,271.42</td>            
-            <td align="right" >17,171,593.92</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >1,708,307.25</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >76,084,677.51</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51979','3670368');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670381</td>
-            <td align="left">H S A TECNOCONSTRUCCIONES LTDA</td>
-            <td align="left">05/02/2026</td>
-            <td align="left">06/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCION PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4)  (SUPERBOARD CAMPAMENTO)</td>            
-            <td align="left">SP - Construcción 2% 7.60</td>
-            <td align="left">Abierto</td>
-            <td align="right" >3,205,610.03</td>
-            <td align="right" >-0.00</td>
-            <td align="right" >25,601.76</td>
-            <td align="right" >3,205,610.03</td>            
-            <td align="right" >3,205,610.03</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >318,000.83</td>
+            <td align="right" >3,637,260.00</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
             <td align="right" >-0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52215','3670381');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51939','4060159');"></i>
             </td>
         </tr>
 		
 			
          <tr>
-            <td align="left">3670382</td>
-            <td align="left">H S A TECNOCONSTRUCCIONES LTDA</td>
-            <td align="left">05/02/2026</td>
-            <td align="left">06/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO: TERRA PPTO C (MANZANA 4) (SUPERBOARD CAMPAMENTO) </td>            
-            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
-            <td align="left">Abierto</td>
-            <td align="right" >3,951,841.01</td>
+            <td align="left">4060160</td>
+            <td align="left">SERVIOGUM SAS</td>
+            <td align="left">27/01/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - CARPINTERIA METALICA CAMPAMENTO, ELEMENTOS SST Y NEGATIVOS PARA TORRES 4 Y 5</td>            
+            <td align="left">SP - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >20,097,177.00</td>
+            <td align="right" >-400,000.00</td>
+            <td align="right" >202,040.51</td>
+            <td align="right" >19,697,177.00</td>            
+            <td align="right" >19,697,177.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >630,966.21</td>
-            <td align="right" >3,951,841.01</td>            
-            <td align="right" >3,951,841.01</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >332,087.48</td>
+            <td align="right" >1,949,513.65</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
             <td align="right" >-0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52216','3670382');"></i>
-            </td>
-        </tr>
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         
-		
-			
-         <tr>
-            <td align="left">3670408</td>
-            <td align="left">RMCONSTRUOB SAS</td>
-            <td align="left">26/03/2026</td>
-            <td align="left">14/05/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCIÓN PARA EL DESARROLLO DEL PROYECTO: TERRA PPTOC (MANZANA 4 ) ADICIONALES LAVADO FACHADAS CAMBIO DE DISEÑO TORRE3 Y TORRE2</td>            
-            <td align="left">PG - Construccion de obra 2% 6.9</td>
-            <td align="left">Abierto</td>
-            <td align="right" >33,786,648.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >174,173.73</td>
-            <td align="right" >33,786,648.00</td>            
-            <td align="right" >28,155,540.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >2,801,039.52</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >244,649.12</td>
-            <td align="right" >5,631,108.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52558','3670408');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51940','4060160');"></i>
             </td>
         </tr>
 		
 			
          <tr>
-            <td align="left">3670409</td>
-            <td align="left">AB CONSTRUCCIONES E INGENIERIA SAS</td>
-            <td align="left">19/03/2026</td>
-            <td align="left">13/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL  DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO  TERRA (TEE PARTIDA RED ACUEDUCTO)		
-</td>            
-            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
-            <td align="left">Abierto</td>
-            <td align="right" >11,564,555.66</td>
+            <td align="left">4060162</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
+            <td align="left">27/01/2026</td>
+            <td align="left">30/04/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA DE REDES ELECTRICAS PROVISIONALES DE OBRA CAMPAMENTO Y TABLEROS</td>            
+            <td align="left">PMR - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >53,894,068.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >1,846,441.66</td>
-            <td align="right" >11,564,555.66</td>            
-            <td align="right" >11,564,555.66</td>
-            <td align="right" >0.00</td>
+            <td align="right" >347,821.77</td>
+            <td align="right" >53,894,068.00</td>            
+            <td align="right" >53,894,068.00</td>
             <td align="right" >0.00</td>
             <td align="right" >0.00</td>
-            <td align="right" >485,905.70</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,354,624.62</td>
                        
                  <td align="right"  >0.00</td> 
             
               <td align="right" >0.00</td>
             <td align="right" >0.00</td>
             <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52570','3670409');"></i>
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51945','4060162');"></i>
             </td>
         </tr>
 		
 			
-         <tr>
-            <td align="left">3670410</td>
-            <td align="left">AB CONSTRUCCIONES E INGENIERIA SAS</td>
-            <td align="left">19/03/2026</td>
-            <td align="left">13/07/2026</td>
-            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION  PARA EL DESARROLLO DEL PROYECTO  TERRA PPTO C (MANZANA 4)   (TEE PARTIDA RED ACUEDUCTO)		
- </td>            
-            <td align="left">SP - Construcción 2% 7.60</td>
-            <td align="left">Abierto</td>
-            <td align="right" >1,741,680.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >13,680.00</td>
-            <td align="right" >1,741,680.00</td>            
-            <td align="right" >1,741,680.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="right" >86,400.00</td>
-                       
-                 <td align="right"  >0.00</td> 
-            
-              <td align="right" >0.00</td>
-            <td align="right" >0.00</td>
-            <td align="center">
-                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52571','3670410');"></i>
-            </td>
-        </tr>
+         
+		
+			
+         
+		
+			
+         
+		
+			
+         
 		
 			
          
