@@ -1,0 +1,3258 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>Informe Liquidaci&oacute;n de Contratos</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+    <link href="http://45.169.253.161/SincoIngeurbe_Nueva/V3ASP/ADPRO/Framework/Estilos/formatoV3.css" rel="stylesheet" />
+	<link href="http://45.169.253.161/SincoIngeurbe_Nueva/ADPRO/MultiExplorador/Framework/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="http://45.169.253.161/SincoIngeurbe_Nueva/ADPRO/MultiExplorador/Framework/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        @media print {
+            @page {
+                size: landscape;
+                margin-left: 0px;
+                margin-right: 5px;
+                margin-top: 5px;
+            }
+ 
+            #fijo {
+                display: none;
+            }
+       }
+		td{
+			padding-left:5px;
+			padding-right:5px;
+			}
+		body{
+			padding-left:10px !important;
+			}
+		.sinEstados{
+			display:block
+			}	
+		table tbody tr:hover{
+			background:#CCC
+		}			
+	</style>  
+    
+<script src="../../Framework/Scripts/jquery.min.js"></script>
+<script src="../../Framework/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../Framework/Scripts/plugin-ADPRO.js"></script>
+<script src="../../Framework/Scripts/ASPClasic.js"></script>   
+<script language="JavaScript" type="text/JavaScript">
+    function muestraImagenes(codigo, ConNumero){
+        var ventana = window.open("../../../../V3/ADPRO/Views/CargarArchivos/CargadorArchivos.html?Tipo=CON&OrigenID=" + codigo + "&Numero=" + ConNumero + "", "dialogo", "directories=no,location=no,scrollbars=yes,resizable=no,toolbar=no,width=1000,height=800,left=180,top=130");
+      
+        ventana.focus();
+}
+
+</script>
+
+<body id="bodyId">
+<object id="factory" viewastext style="display:none"
+classid="clsid:1663ed61-23eb-11d2-b92f-008048fdd814"
+  codebase="../Framework/ScriptX/smsx.cab#Version=6,5,439,30">
+</object>
+<form action="" method="post" name="form1" id="form1">
+
+<div class="contenido-cuerpo" id="divTableReporte">
+<div class="registros responsive">
+<div id="fijo" class="encabezado-fixed"></div>
+<table id="registrosAprobacion">
+	<thead>   
+        
+        
+        
+       
+        <tr align="center" >
+            <td class="fondoTBoldTitulo">Contrato No.</td>
+            <td class="fondoTBoldTitulo">Contratista</td>
+            <td class="fondoTBoldTitulo">Fecha Inicial</td>
+            <td class="fondoTBoldTitulo">Fecha Final</td>
+            <td class="fondoTBoldTitulo">Descripci&oacute;n</td> 
+            <td class="fondoTBoldTitulo">Tipo Contrato</td>
+            <td class="fondoTBoldTitulo">Estado Contrato</td>
+            <td class="fondoTBoldTitulo">Valor Sin Adicional</td>
+            <td class="fondoTBoldTitulo">Valor Adicional</td>
+            <td class="fondoTBoldTitulo">Valor IVA Contrato</td>
+            <td class="fondoTBoldTitulo">Valor Contrato</td>            
+            <td class="fondoTBoldTitulo">Acumulado</td>
+            <td class="fondoTBoldTitulo">Valor Anticipo <br />Contratos</td>
+            <td class="fondoTBoldTitulo">Total Amortizado <br />Contratos</td>
+            <td class="fondoTBoldTitulo">Saldo Anticipo <br />Contratos</td>
+            <td class="fondoTBoldTitulo">Saldo Rte <br />Garant&iacute;a</td> 
+                    
+                    <td class="fondoTBoldTitulo">Saldo Rte <br />Garant&iacute;a  FIC</td>
+            
+            <td class="fondoTBoldTitulo">Descuentos</td>
+            <td class="fondoTBoldTitulo">Faltante</td>
+            <td class="fondoTBoldTitulo">Adjuntos</td>
+        </tr>
+     
+	</thead>
+
+	<tbody>   
+        
+            
+        
+			
+         <tr>
+            <td align="left">4060020</td>
+            <td align="left">ISISHOP SAS</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO EQUIPO DE COMPUTO PARA RESIDENTE BIM</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>            
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47870','4060020');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060129</td>
+            <td align="left">FUQUEN BUITRAGO IVAN DARIO</td>
+            <td align="left">03/12/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CAJA MENOR EVENTO FIN DE AÑO PARA EL PROYECTO NATIVA</td>            
+            <td align="left">Caja Menor - TC</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >200,888.90</td>
+            <td align="right" >3,999,998.90</td>            
+            <td align="right" >3,999,998.90</td>
+            <td align="right" >4,000,000.00</td>
+            <td align="right" >3,999,998.90</td>
+            <td align="right" >1.10</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51269','4060129');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060151</td>
+            <td align="left">PEOPLE PASS SA</td>
+            <td align="left">17/01/2026</td>
+            <td align="left">28/02/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO TARJETA PRODUCTO ZAFIRO</td>            
+            <td align="left">SP - Honorarios 10 - 11% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,638.34</td>
+            <td align="right" >647,724.34</td>            
+            <td align="right" >647,724.34</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51870','4060151');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060167</td>
+            <td align="left">ALTER NATIVA PUBLICIDAD COMERCIAL S.A.S.</td>
+            <td align="left">12/02/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO CHARLA ORGANIZACIONAL PROYECTO NATIVA</td>            
+            <td align="left">PT - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >922,716.00</td>
+            <td align="right" >6,422,866.00</td>            
+            <td align="right" >6,422,866.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52105','4060167');"></i>
+            </td>
+        </tr>
+		
+        
+		
+            
+        
+			
+         <tr>
+            <td align="left">4060002</td>
+            <td align="left">SOLETANCHE BACHY COLOMBIA SAS</td>
+            <td align="left">20/02/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - PILOTAJE ETAPA 1 TORRES 4 Y 5, COMUNAL 2, 3 Y 4</td>            
+            <td align="left">PT - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,978,287,985.29</td>
+            <td align="right" >-158,279,130.69</td>
+            <td align="right" >14,695,316.51</td>
+            <td align="right" >3,820,008,854.61</td>            
+            <td align="right" >3,820,008,854.61</td>
+            <td align="right" >1,188,895,888.00</td>
+            <td align="right" >1,188,895,888.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >1,884,283.94</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47453','4060002');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060003</td>
+            <td align="left">DEMOLICIONES EXCAVACIONES Y CONSTRUCCIONES NUEVO RELAMPAGO S.A.S</td>
+            <td align="left">17/02/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - RELLENOS </td>            
+            <td align="left">PT - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,642,951,126.08</td>
+            <td align="right" >130,262,513.24</td>
+            <td align="right" >12,058,360.47</td>
+            <td align="right" >1,773,213,639.32</td>            
+            <td align="right" >1,773,213,639.32</td>
+            <td align="right" >410,737,781.52</td>
+            <td align="right" >410,737,781.52</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.01</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47471','4060003');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060004</td>
+            <td align="left">BOUSSOLE INGENIERIA S.A.S</td>
+            <td align="left">17/02/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVICIO DE TOPOGRAFIA PARA EL PROYECTO NATIVA Y SUPERVISION TECNICA DEL PROYECTO</td>            
+            <td align="left">PT - Honorarios 10 - 11% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >112,931,000.00</td>
+            <td align="right" >8,163,400.00</td>
+            <td align="right" >19,334,400.00</td>
+            <td align="right" >121,094,400.00</td>            
+            <td align="right" >121,094,400.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,088,000.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47563','4060004');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060005</td>
+            <td align="left">TECNOBA SAS</td>
+            <td align="left">28/02/2025</td>
+            <td align="left">31/03/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">PRESTACION DE SERVICIO DE INTERNET SATELITAL  </td>            
+            <td align="left">SP - Servicios 4 - 6% 10.62</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >784,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >125,176.47</td>
+            <td align="right" >784,000.00</td>            
+            <td align="right" >784,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47616','4060005');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060007</td>
+            <td align="left">RECURSOS ESTRATEGICOS DE COLOMBIA SAS</td>
+            <td align="left">07/03/2025</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">PRUEBAS DE POLIGRAFIA</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >248,234.00</td>
+            <td align="right" >9,599,700.25</td>
+            <td align="right" >1,572,359.25</td>
+            <td align="right" >9,847,934.25</td>            
+            <td align="right" >9,847,934.25</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47711','4060007');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060008</td>
+            <td align="left">LOPEZ INGENIERIA SAS</td>
+            <td align="left">10/03/2025</td>
+            <td align="left">31/05/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE SEÑALIZACION DE OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,778,531.67</td>
+            <td align="right" >1,130,505.00</td>
+            <td align="right" >624,131.90</td>
+            <td align="right" >3,909,036.67</td>            
+            <td align="right" >3,909,036.67</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47722','4060008');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060009</td>
+            <td align="left">LOPEZ INGENIERIA SAS</td>
+            <td align="left">11/03/2025</td>
+            <td align="left">31/03/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE SEÑALIZACION PMT</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,034,900.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >324,900.00</td>
+            <td align="right" >2,034,900.00</td>            
+            <td align="right" >2,034,900.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47759','4060009');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060013</td>
+            <td align="left">MONTACARGAS FYE LTDA</td>
+            <td align="left">18/03/2025</td>
+            <td align="left">30/04/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE TRANSPORTE TRASLADO DE CONTENEDORES PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,500,000.00</td>
+            <td align="right" >-600,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >900,000.00</td>            
+            <td align="right" >900,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47811','4060013');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060014</td>
+            <td align="left">AMBICONTROL FUMIGACIONES SAS</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTROL DE ROEDORES Y FUMIGACION</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,570,000.00</td>
+            <td align="right" >-571,200.00</td>
+            <td align="right" >478,800.00</td>
+            <td align="right" >2,998,800.00</td>            
+            <td align="right" >2,998,800.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47863','4060014');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060015</td>
+            <td align="left">RECOLECTORA EL TRIUNFO SAS</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">Transporte de desechos, acarreos, fletes exclusivamente, no puede incluirse aca el flete de la compra de un insumo o de un servicio Y actividades de </td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >12,392,000.00</td>
+            <td align="right" >-6,513,500.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,878,500.00</td>            
+            <td align="right" >5,878,500.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47864','4060015');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060017</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">31/05/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA ADECUACION CUBIERTA DE CAMPAMENTO</td>            
+            <td align="left">SP - Construcción 2% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >9,264,326.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >79,325.01</td>
+            <td align="right" >9,264,326.00</td>            
+            <td align="right" >9,264,326.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47867','4060017');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060018</td>
+            <td align="left">REDES E INGENIERIA AMBIENTAL SAS</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">31/05/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA TPO DE OBRA</td>            
+            <td align="left">SP - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >7,920,602.33</td>
+            <td align="right" >0.00</td>
+            <td align="right" >50,687.59</td>
+            <td align="right" >7,920,602.33</td>            
+            <td align="right" >7,920,602.33</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47868','4060018');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060019</td>
+            <td align="left">TODO AMBIENTAL SAS ESP</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">30/04/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">TRANSPORTE DE BAÑOS PORTATILES</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >520,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >520,000.00</td>            
+            <td align="right" >520,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47869','4060019');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060021</td>
+            <td align="left">INDUSTRIAS METALICAS LEON SAS </td>
+            <td align="left">25/03/2025</td>
+            <td align="left">30/04/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO TEJA Y POSTES PARA CERRAMIENTO PROVISONAL</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >7,450,401.99</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,189,559.98</td>
+            <td align="right" >7,450,401.99</td>            
+            <td align="right" >7,450,401.99</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47871','4060021');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060022</td>
+            <td align="left">LOPEZ INGENIERIA SAS</td>
+            <td align="left">25/03/2025</td>
+            <td align="left">31/05/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE INSUMOS PARA OFICINA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,760,165.00</td>
+            <td align="right" >-1,666,000.00</td>
+            <td align="right" >334,362.48</td>
+            <td align="right" >2,094,165.00</td>            
+            <td align="right" >2,094,165.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47874','4060022');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060023</td>
+            <td align="left">INGEURBE GESTORA DE PROYECTOS SAS</td>
+            <td align="left">26/03/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">NÓMINA PROYECTO NATIVA</td>            
+            <td align="left">Reembolso Nomina</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >34,989,042.00</td>
+            <td align="right" >-1,848.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >34,987,194.00</td>            
+            <td align="right" >34,987,194.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47877','4060023');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060024</td>
+            <td align="left">EXTINTORES M G S A S</td>
+            <td align="left">26/03/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVICIO DE RECARGA Y MANTENIMIENTO DE EXTINTORES</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >750,893.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >119,890.48</td>
+            <td align="right" >750,893.00</td>            
+            <td align="right" >750,893.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47878','4060024');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060025</td>
+            <td align="left">TRANSPORTES JAIR SAS</td>
+            <td align="left">26/03/2025</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">TRANSPORTES Y ACARREOS	</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >30,240,000.00</td>
+            <td align="right" >-814,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >29,426,000.00</td>            
+            <td align="right" >29,426,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47883','4060025');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060026</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">12/05/2025</td>
+            <td align="left">30/06/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">ALQUILER PLANTA ELECTRICA PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >14,994,000.00</td>
+            <td align="right" >-2,499,000.00</td>
+            <td align="right" >1,995,000.00</td>
+            <td align="right" >12,495,000.00</td>            
+            <td align="right" >12,495,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47884','4060026');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060027</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">26/03/2025</td>
+            <td align="left">31/10/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">CONTRATO DE  TRANSPORTE DE PLANTA ELECTRICA</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >300,000.00</td>
+            <td align="right" >-150,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >150,000.00</td>            
+            <td align="right" >150,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47885','4060027');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060028</td>
+            <td align="left">VIBROEQUIPOS JR EU</td>
+            <td align="left">12/05/2025</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">ALQUILER TROZADORA PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >295,597.00</td>
+            <td align="right" >-295,597.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>            
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47887','4060028');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060029</td>
+            <td align="left">KONTROLID S.A.S</td>
+            <td align="left">27/03/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">ALQUILER DE PANTALLA DE RECONOCIMIENTO FACIAL PARA AACESO PERSONAL OBRA NATIVA </td>            
+            <td align="left">SP - Servicio Licencias 3.5% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >6,147,541.00</td>
+            <td align="right" >-5,464,480.89</td>
+            <td align="right" >109,060.02</td>
+            <td align="right" >683,060.11</td>            
+            <td align="right" >683,060.11</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47888','4060029');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060032</td>
+            <td align="left">UPEGUI COLMENARES NORMA CONSTANZA</td>
+            <td align="left">07/04/2025</td>
+            <td align="left">30/04/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SUMINISTRO DE REFRIGERIOS DIA DEL TRABAJADOR DE LA CONSTRUCCION</td>            
+            <td align="left">SP - Compras 2.5 - 3.5% - 13.8 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >391,875.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >391,875.00</td>            
+            <td align="right" >391,875.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47975','4060032');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060033</td>
+            <td align="left">ALTER NATIVA PUBLICIDAD COMERCIAL S.A.S.</td>
+            <td align="left">09/04/2025</td>
+            <td align="left">31/05/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">EVENTO DIA DEL CONTRUCTOR </td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,128,612.50</td>
+            <td align="right" >0.00</td>
+            <td align="right" >339,862.50</td>
+            <td align="right" >2,128,612.50</td>            
+            <td align="right" >2,128,612.50</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('47993','4060033');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060036</td>
+            <td align="left">IDEAR CONSTRUCCION Y CONSULTORIA SAS</td>
+            <td align="left">12/04/2025</td>
+            <td align="left">30/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">VIDEO AVANCE DE OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,377,776.00</td>
+            <td align="right" >547,222.00</td>
+            <td align="right" >786,344.22</td>
+            <td align="right" >4,924,998.00</td>            
+            <td align="right" >4,924,998.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48020','4060036');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060039</td>
+            <td align="left">TECNOBA SAS</td>
+            <td align="left">05/05/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVICIO DE INTERNET SATELITAL OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 10.62</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >5,105,000.04</td>
+            <td align="right" >1,223,400.14</td>
+            <td align="right" >1,010,416.84</td>
+            <td align="right" >6,328,400.18</td>            
+            <td align="right" >6,328,400.18</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48178','4060039');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060040</td>
+            <td align="left">AXA COLPATRIA SEGUROS SA</td>
+            <td align="left">06/05/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">POLIZA DE TRANSPORTE OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 14.00</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,285,200.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >205,200.00</td>
+            <td align="right" >1,285,200.00</td>            
+            <td align="right" >1,285,200.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48221','4060040');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060041</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
+            <td align="left">12/05/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL PROYECTO NATIVA RED PROVISIONAL ELECTRICA</td>            
+            <td align="left">PT - Construcción 2% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >126,675,674.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >910,301.74</td>
+            <td align="right" >126,675,674.00</td>            
+            <td align="right" >126,675,674.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.01</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48225','4060041');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060045</td>
+            <td align="left">ISOLTEL SAS</td>
+            <td align="left">15/05/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVCIO DE MANTENIMIENTO Y REPARACION DE RADIOS DE OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,590,630.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >413,630.00</td>
+            <td align="right" >2,590,630.00</td>            
+            <td align="right" >2,590,630.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48337','4060045');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060046</td>
+            <td align="left">KONTROLID S.A.S</td>
+            <td align="left">26/05/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">SERVICIO DE LICENCIA SOFTWARE EN LA NUBE PARA CONTROL DE ACCESO PERSONAL OBRA NATIVA</td>            
+            <td align="left">SP - Servicio Licencias 3.5% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,592,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >4,592,000.00</td>            
+            <td align="right" >4,592,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48567','4060046');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060047</td>
+            <td align="left">INGEURBE GESTORA DE PROYECTOS SAS</td>
+            <td align="left">27/05/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">NÓMINA PROYECTO NATIVA 2025</td>            
+            <td align="left">Reembolso Nomina</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,056,880,000.00</td>
+            <td align="right" >-205,680,861.03</td>
+            <td align="right" >0.00</td>
+            <td align="right" >851,199,138.97</td>            
+            <td align="right" >851,199,138.97</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48578','4060047');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060054</td>
+            <td align="left">INGEURBE S A S</td>
+            <td align="left">06/06/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">NÓMINA PROYECTO NATIVA</td>            
+            <td align="left">Reembolso Nomina</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >32,466,730.00</td>
+            <td align="right" >23,120.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >32,489,850.00</td>            
+            <td align="right" >32,489,850.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48705','4060054');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060055</td>
+            <td align="left">PREFABRICACIONES Y PROYECTOS S A S</td>
+            <td align="left">01/07/2025</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL PROYECTO NATIVA, PRELOSAS TORRES 4 Y 5</td>            
+            <td align="left">PT - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >56,089,800.00</td>
+            <td align="right" >3,380,569.00</td>
+            <td align="right" >533,240.68</td>
+            <td align="right" >59,470,369.00</td>            
+            <td align="right" >59,470,369.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,893,712.83</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48736','4060055');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060056</td>
+            <td align="left">TECNOLOGIA INFORMATICA TECINF SAS</td>
+            <td align="left">11/06/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE EQUIPOS DE TECNOLOGIA OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >400,000.00</td>
+            <td align="right" >-60,218.71</td>
+            <td align="right" >54,250.79</td>
+            <td align="right" >339,781.29</td>            
+            <td align="right" >339,781.29</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48766','4060056');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060058</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">12/06/2025</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER DE EQUIPOS PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,428,000.00</td>
+            <td align="right" >-190,400.00</td>
+            <td align="right" >197,600.00</td>
+            <td align="right" >1,237,600.00</td>            
+            <td align="right" >1,237,600.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48771','4060058');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060059</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">12/06/2025</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE TRANSPORTE ALQUILER DE EQUIPOS PROYECYO NATIVA</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >720,000.00</td>
+            <td align="right" >50,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >770,000.00</td>            
+            <td align="right" >770,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48776','4060059');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060060</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
+            <td align="left">12/06/2025</td>
+            <td align="left">31/07/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL PROYECTO NATIVA ADECUACIONES ELECTRICAS CAMPAMENTO</td>            
+            <td align="left">SP - Construcción 2% 7.60</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >15,203,297.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >99,814.32</td>
+            <td align="right" >15,203,297.00</td>            
+            <td align="right" >15,203,297.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,510,348.27</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48778','4060060');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060061</td>
+            <td align="left">MOYA  DE VERA MARIELA  ANGELA </td>
+            <td align="left">12/06/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DOTACION PERSONAL STOCK OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,096,000.00</td>
+            <td align="right" >-269,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >827,000.00</td>            
+            <td align="right" >827,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48779','4060061');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060063</td>
+            <td align="left">CASTOR DATA S A S</td>
+            <td align="left">17/06/2025</td>
+            <td align="left">31/08/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL SUMINISTRO DE TABLETS OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,595,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,595,000.00</td>            
+            <td align="right" >2,595,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48830','4060063');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060064</td>
+            <td align="left">CASTOR DATA S A S</td>
+            <td align="left">17/06/2025</td>
+            <td align="left">31/08/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL SUMINISTRO INSUMOS TECNOLOGICOS OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >632,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >100,907.56</td>
+            <td align="right" >632,000.00</td>            
+            <td align="right" >632,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48833','4060064');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060065</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">17/06/2025</td>
+            <td align="left">31/10/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL SERVCIO DE MANTENIMIENTO BOMBA SUMERGIBLE OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >333,201.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >53,200.16</td>
+            <td align="right" >333,201.00</td>            
+            <td align="right" >333,201.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48853','4060065');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060066</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">18/06/2025</td>
+            <td align="left">31/10/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER PLANTA ELECTRICA PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >22,491,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >3,591,000.00</td>
+            <td align="right" >22,491,000.00</td>            
+            <td align="right" >22,491,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48865','4060066');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060067</td>
+            <td align="left">NARVAEZ RIVERA ELIZABETH </td>
+            <td align="left">21/06/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE REFRIGERIOS COMITE DE GERENCIA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,727,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,727,000.00</td>            
+            <td align="right" >1,727,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('48897','4060067');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060077</td>
+            <td align="left">PRADA CASTRO WALTHER GIOVANNY</td>
+            <td align="left">11/07/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE ROMPECABEZAS EN CARTON DOBLE PARED</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >113,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >113,000.00</td>            
+            <td align="right" >113,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49098','4060077');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060078</td>
+            <td align="left">GONZALEZ PEREZ MILLER ESTEBAN</td>
+            <td align="left">15/07/2025</td>
+            <td align="left">31/08/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE MEDIDORES DE  3/4´´ CERTIFICADO PARA TPO PROYECTO NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >895,001.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >895,001.00</td>            
+            <td align="right" >895,001.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49144','4060078');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060079</td>
+            <td align="left">CASTOR DATA S A S</td>
+            <td align="left">15/07/2025</td>
+            <td align="left">31/08/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE EQUIPO DE COMPUTO PARA RESIDENTE OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,092,999.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >653,504.04</td>
+            <td align="right" >4,092,999.00</td>            
+            <td align="right" >4,092,999.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49152','4060079');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060080</td>
+            <td align="left">FORMACO S A</td>
+            <td align="left">15/09/2025</td>
+            <td align="left">31/10/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER ACCESORIOS DE FORMALETA TORRE 4 PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >14,174,517.20</td>
+            <td align="right" >-1,996,501.06</td>
+            <td align="right" >1,944,389.13</td>
+            <td align="right" >12,178,016.14</td>            
+            <td align="right" >12,178,016.14</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49231','4060080');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060082</td>
+            <td align="left">FUNDACION UNIVERSITARIA EMPRESARIALDE LA CAMARA DE COMERCIO DE BOGOTA - UNIEMPRESARIAL</td>
+            <td align="left">01/08/2025</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL DESARROYO DEL PROYECTO NATIVA PROGRAMA DE FORMACION CONTINUA DE EJEROS</td>            
+            <td align="left">SP - Honorarios 10 - 11% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >20,250,000.00</td>
+            <td align="right" >7,140,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >27,390,000.00</td>            
+            <td align="right" >27,390,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49393','4060082');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060083</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">01/08/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO CARPINTERIA METALICA PARA EL PROYECTO NATIVA</td>            
+            <td align="left">PT - Compra 2.5 - 3.5% 6.9 Suministro</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >27,644,300.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >4,413,795.80</td>
+            <td align="right" >27,644,300.00</td>            
+            <td align="right" >27,644,300.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,323,050.42</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49418','4060083');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060084</td>
+            <td align="left">REDES E INGENIERIA AMBIENTAL SAS</td>
+            <td align="left">04/08/2025</td>
+            <td align="left">30/09/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA REDES HIDRAULICAS DE BAÑOS CAMPAMENTO</td>            
+            <td align="left">SP - Construcción de obra menor cuantia 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,925,278.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >25,119.66</td>
+            <td align="right" >3,925,278.00</td>            
+            <td align="right" >3,925,278.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >390,015.83</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49483','4060084');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060085</td>
+            <td align="left">REDES E INGENIERIA AMBIENTAL SAS</td>
+            <td align="left">04/08/2025</td>
+            <td align="left">30/09/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO NATIVA REDES HIDRAULICAS DE BAÑOS CAMPAMENTO</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >5,480,909.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >875,103.12</td>
+            <td align="right" >5,480,909.00</td>            
+            <td align="right" >5,480,909.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >460,580.59</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49484','4060085');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060090</td>
+            <td align="left">GIGACON TRANSPORTES SAS</td>
+            <td align="left">04/09/2025</td>
+            <td align="left">28/02/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO PROYECTO NATIVA, CERTIFICACION DE TORRE GRUA</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,165,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >665,000.00</td>
+            <td align="right" >4,165,000.00</td>            
+            <td align="right" >4,165,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49974','4060090');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060091</td>
+            <td align="left">MAGNUS SEGURIDAD LTDA</td>
+            <td align="left">06/11/2025</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO EQUIPO CCTV PROVISIONAL PROYECTO NATIVA</td>            
+            <td align="left">SP - Compras 2.5 - 3.5% - 13.8 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >6,861,659.00</td>
+            <td align="right" >-6,861,659.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>            
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('49980','4060091');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060093</td>
+            <td align="left">FORMACO MAQUINARIA S.A.S.</td>
+            <td align="left">15/09/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER BOMBA ESTACIONARIA PARA CIMENTACION DE TORRE 4</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >12,726,603.75</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,031,978.75</td>
+            <td align="right" >12,726,603.75</td>            
+            <td align="right" >12,726,603.75</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50092','4060093');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060096</td>
+            <td align="left">ARCA CONSTRUCCIONES CA SAS</td>
+            <td align="left">22/09/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA CAMPAMENTOS DE OBRA</td>            
+            <td align="left">PT - Construcción de obra 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >52,536,079.84</td>
+            <td align="right" >0.00</td>
+            <td align="right" >254,704.14</td>
+            <td align="right" >52,536,079.84</td>            
+            <td align="right" >52,536,079.84</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,228,137.57</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50225','4060096');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060098</td>
+            <td align="left">FORMACO MAQUINARIA S.A.S.</td>
+            <td align="left">22/09/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER BOMBA ESTACIONARIA PARA CIMENTACION DE TORRE 5</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >12,726,603.75</td>
+            <td align="right" >-5,155,080.00</td>
+            <td align="right" >1,208,898.75</td>
+            <td align="right" >7,571,523.75</td>            
+            <td align="right" >7,571,523.75</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50242','4060098');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060099</td>
+            <td align="left">TECNOLOGIA INFORMATICA TECINF SAS</td>
+            <td align="left">24/09/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE EQUIPOS DE COMPUTO OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,809,980.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >767,980.00</td>
+            <td align="right" >4,809,980.00</td>            
+            <td align="right" >4,809,980.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50282','4060099');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060101</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
+            <td align="left">01/10/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA DE REDES ELECTRICAS OBRA Y TORRE GRUA</td>            
+            <td align="left">PMR - Construcción Obra 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >90,056,878.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >581,209.47</td>
+            <td align="right" >90,056,878.00</td>            
+            <td align="right" >90,056,878.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >8,947,566.85</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50396','4060101');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060107</td>
+            <td align="left">INGEQUIPOS 3A&L EU</td>
+            <td align="left">08/10/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO PROYECTO NATIVA - CAPACITACION Y CERTIFICACION APAREJADOR </td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >476,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >76,000.00</td>
+            <td align="right" >476,000.00</td>            
+            <td align="right" >476,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50549','4060107');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060108</td>
+            <td align="left">TECNOLOGIA INFORMATICA TECINF SAS</td>
+            <td align="left">15/10/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE EQUIPOS DE COMPUTO (TABLETS) OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,000,001.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,000,001.00</td>            
+            <td align="right" >2,000,001.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50568','4060108');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060109</td>
+            <td align="left">TECNOLOGIA INFORMATICA TECINF SAS</td>
+            <td align="left">15/10/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE ACCESORIOS TABLETS OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >526,774.92</td>
+            <td align="right" >0.00</td>
+            <td align="right" >84,106.92</td>
+            <td align="right" >526,774.92</td>            
+            <td align="right" >526,774.92</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50624','4060109');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060110</td>
+            <td align="left">FERRIN SAS</td>
+            <td align="left">17/10/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO EQUIPO DE SEGURIDAD PROYECTO NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,044,020.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >486,020.00</td>
+            <td align="right" >3,044,020.00</td>            
+            <td align="right" >3,044,020.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50657','4060110');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060112</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">21/10/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER PLANTA ELECTRICA 100KVA PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >11,438,400.00</td>
+            <td align="right" >-300,000.00</td>
+            <td align="right" >1,778,400.00</td>
+            <td align="right" >11,138,400.00</td>            
+            <td align="right" >11,138,400.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50683','4060112');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060113</td>
+            <td align="left">ALQUIEQUIPOS MT S.A.S.</td>
+            <td align="left">21/10/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER DE TALADRO DEMOLEDOR DEWALL 2000 PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,926,996.00</td>
+            <td align="right" >-119,000.00</td>
+            <td align="right" >607,999.36</td>
+            <td align="right" >3,807,996.00</td>            
+            <td align="right" >3,807,996.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50684','4060113');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060114</td>
+            <td align="left">ALVEMAQ SAS</td>
+            <td align="left">21/10/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER PLANTA ELECTRICA KVA9 PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,244,550.00</td>
+            <td align="right" >-120,000.00</td>
+            <td align="right" >179,550.00</td>
+            <td align="right" >1,124,550.00</td>            
+            <td align="right" >1,124,550.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50685','4060114');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060115</td>
+            <td align="left">TRANSPORTES JAIR SAS</td>
+            <td align="left">22/10/2025</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO DE TRANSPORTE PARA EL PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >46,330,000.00</td>
+            <td align="right" >-1,897,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >44,433,000.00</td>            
+            <td align="right" >44,433,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50688','4060115');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060116</td>
+            <td align="left">TESORERIA DISTRITAL</td>
+            <td align="left">04/11/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO PMT</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,238,200.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >2,238,200.00</td>            
+            <td align="right" >2,238,200.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50879','4060116');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060117</td>
+            <td align="left">SERVIOGUM SAS</td>
+            <td align="left">06/11/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE BANCA MAMPOSTERIA PARA EL PROYECTO NATIVA </td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,906,435.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >623,716.51</td>
+            <td align="right" >3,906,435.00</td>            
+            <td align="right" >3,906,435.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50906','4060117');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060118</td>
+            <td align="left">ALVEMAQ SAS</td>
+            <td align="left">06/11/2025</td>
+            <td align="left">30/11/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE TRANSPORTE PLANTA ELECTRICA</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >120,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >120,000.00</td>            
+            <td align="right" >120,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50907','4060118');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060121</td>
+            <td align="left">SANCHEZ VIZCAINO MARITZA </td>
+            <td align="left">11/11/2025</td>
+            <td align="left">28/02/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE PRESTACION DE SERVICIO DE RENOVACION PMT PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,904,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >304,000.00</td>
+            <td align="right" >1,904,000.00</td>            
+            <td align="right" >1,904,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('50948','4060121');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060126</td>
+            <td align="left">HILTI COLOMBIA SAS</td>
+            <td align="left">19/11/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVCIO DE MANTENIMIENTO MARTILLO ROMPEDOR PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,255,249.20</td>
+            <td align="right" >0.00</td>
+            <td align="right" >679,409.54</td>
+            <td align="right" >4,255,249.20</td>            
+            <td align="right" >4,255,249.20</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51051','4060126');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060127</td>
+            <td align="left">A R C SOFTWARE LTDA</td>
+            <td align="left">12/12/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE EQUIPO DE COMPUTO OBRA NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >643,552.00</td>
+            <td align="right" >-57,488.90</td>
+            <td align="right" >93,573.10</td>
+            <td align="right" >586,063.10</td>            
+            <td align="right" >586,063.10</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51058','4060127');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060128</td>
+            <td align="left">FORMACO S A</td>
+            <td align="left">20/11/2025</td>
+            <td align="left">31/12/2025</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER ACCESORIOS DE FORMALETA TORRE 5 PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >5,726,271.81</td>
+            <td align="right" >-2,619.32</td>
+            <td align="right" >913,860.48</td>
+            <td align="right" >5,723,652.49</td>            
+            <td align="right" >5,723,652.49</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51068','4060128');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060130</td>
+            <td align="left">SUPERMERCADO AMIGO C V LTDA</td>
+            <td align="left">03/12/2025</td>
+            <td align="left">31/01/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE ANCHETAS PARA EL PERSONAL DEL PROYECTO NATIVA</td>            
+            <td align="left">SP - Compras 2.5 - 3.5% - 4.14 Suministro</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >5,250,001.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >838,235.45</td>
+            <td align="right" >5,250,001.00</td>            
+            <td align="right" >5,250,001.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51270','4060130');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060132</td>
+            <td align="left">ALQUIEQUIPOS MT S.A.S.</td>
+            <td align="left">06/12/2025</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO DE TRANSPORTE OBRA NATIVA</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >200,000.00</td>
+            <td align="right" >200,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >400,000.00</td>            
+            <td align="right" >400,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51317','4060132');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060133</td>
+            <td align="left">ALQUIEQUIPOS MT S.A.S.</td>
+            <td align="left">06/12/2025</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER DE TALADRO DEMOLEDOR DEWALL 2000 DESCABECE DE PILOTES PROYECTO NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >7,616,000.00</td>
+            <td align="right" >7,557,829.88</td>
+            <td align="right" >2,422,712.34</td>
+            <td align="right" >15,173,829.89</td>            
+            <td align="right" >15,173,829.89</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51318','4060133');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060135</td>
+            <td align="left">AD CONSTRUCCIONES A SAS</td>
+            <td align="left">20/01/2026</td>
+            <td align="left">28/02/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - ACTIVIDADES ADCIONALES DE CIMENTACION, ESTRUCTURA Y MAMPOSTERIA TORRE 5</td>            
+            <td align="left">SP - Construcción de obra menor cuantia 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >3,588,940.02</td>
+            <td align="right" >0.00</td>
+            <td align="right" >23,360.69</td>
+            <td align="right" >3,588,940.02</td>            
+            <td align="right" >3,588,940.02</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >356,557.93</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51352','4060135');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060136</td>
+            <td align="left">ASESORIAS PSICOLOGICAS SAS</td>
+            <td align="left">11/12/2025</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO ACOMPAÑAMIENTO PSICOLOGICO OBRA NATIVA</td>            
+            <td align="left">SP - Honorarios 10 - 11% 8.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >120,000.00</td>
+            <td align="right" >120,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >240,000.00</td>            
+            <td align="right" >240,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51364','4060136');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060137</td>
+            <td align="left">ALTER NATIVA PUBLICIDAD COMERCIAL S.A.S.</td>
+            <td align="left">12/12/2025</td>
+            <td align="left">28/02/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO EVENTO FIN DE AÑO OBRA </td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >5,268,785.69</td>
+            <td align="right" >285,600.00</td>
+            <td align="right" >886,834.69</td>
+            <td align="right" >5,554,385.69</td>            
+            <td align="right" >5,554,385.69</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51368','4060137');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060140</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">15/12/2025</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA CERRAMIENTO PERIMETRAL NORTE, OCCIDENTE Y SUR</td>            
+            <td align="left">SP - Construcción de obra menor cuantia 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >8,437,634.24</td>
+            <td align="right" >0.00</td>
+            <td align="right" >72,246.53</td>
+            <td align="right" >8,437,634.24</td>            
+            <td align="right" >8,437,634.24</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >836,538.77</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51439','4060140');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060141</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">13/01/2026</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLLO DEL PROYECTO NATIVA CERRAMIENTO PERIMETRAL NORTE, OCCIDENTE Y SUR</td>            
+            <td align="left">PMR - Compras 2.5 - 3.5% - 6.9 Suministro</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >30,510,457.60</td>
+            <td align="right" >0.00</td>
+            <td align="right" >4,871,417.60</td>
+            <td align="right" >30,510,457.60</td>            
+            <td align="right" >30,510,457.60</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51440','4060141');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060142</td>
+            <td align="left">INGEQUIPOS 3A&L EU</td>
+            <td align="left">19/12/2025</td>
+            <td align="left">30/04/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO PROYECTO NATIVA - CAPACITACION Y CERTIFICACION APAREJADOR DICIEMBRE 2025</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,428,000.00</td>
+            <td align="right" >-1,428,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>            
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51566','4060142');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060144</td>
+            <td align="left">ERGIOS SAS</td>
+            <td align="left">23/12/2025</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO ANALISIS PUESTO DE TRABAJO OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >700,910.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >111,910.00</td>
+            <td align="right" >700,910.00</td>            
+            <td align="right" >700,910.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51656','4060144');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060145</td>
+            <td align="left">INGEURBE GESTORA DE PROYECTOS SAS</td>
+            <td align="left">06/01/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER DE FORMALETA OBRA NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >27,719,200.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >4,425,754.62</td>
+            <td align="right" >27,719,200.00</td>            
+            <td align="right" >27,719,200.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51772','4060145');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060152</td>
+            <td align="left">AGUA Y BOMBAS HIDRO 2000 SAS</td>
+            <td align="left">17/01/2026</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO PUESTA EN MARCHA EQUIPO DE PRESION</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,368,500.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >218,500.00</td>
+            <td align="right" >1,368,500.00</td>            
+            <td align="right" >1,368,500.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51871','4060152');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060153</td>
+            <td align="left">TRANSPORTES JAIR SAS</td>
+            <td align="left">17/01/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO DE TRANSPORTE BODEGA INGEURBE A PARQUE AMERICAS</td>            
+            <td align="left">SP - Servicio Transporte 1% 4.14</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >535,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >535,000.00</td>            
+            <td align="right" >535,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51872','4060153');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060157</td>
+            <td align="left">CENTRAL DE ANDAMIOS Y CONSTRUCCIONES S.A.S.</td>
+            <td align="left">23/01/2026</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL PROYECTO NATIVA ANDAMIOS PARA MAMPOSTERIA</td>            
+            <td align="left">PMR - Compras 2.5 - 3.5% - 6.9 Suministro</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >59,085,195.33</td>
+            <td align="right" >0.00</td>
+            <td align="right" >9,433,770.68</td>
+            <td align="right" >59,085,195.33</td>            
+            <td align="right" >59,085,195.33</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51923','4060157');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060159</td>
+            <td align="left">MEDING METALMECANICA SAS</td>
+            <td align="left">27/01/2026</td>
+            <td align="left">30/04/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA CARPINTERIA METALICA CAMPAMENTO Y CASINO</td>            
+            <td align="left">PMR - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >36,686,727.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >314,127.00</td>
+            <td align="right" >36,686,727.00</td>            
+            <td align="right" >36,686,727.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >3,637,260.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51939','4060159');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060160</td>
+            <td align="left">SERVIOGUM SAS</td>
+            <td align="left">27/01/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONSTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA - CARPINTERIA METALICA CAMPAMENTO, ELEMENTOS SST Y NEGATIVOS PARA TORRES 4 Y 5</td>            
+            <td align="left">SP - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >20,097,177.00</td>
+            <td align="right" >-400,000.00</td>
+            <td align="right" >202,040.51</td>
+            <td align="right" >19,697,177.00</td>            
+            <td align="right" >19,697,177.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,949,513.65</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51940','4060160');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060162</td>
+            <td align="left">T Y T ENERGIA Y COMUNICACIONES SAS</td>
+            <td align="left">27/01/2026</td>
+            <td align="left">30/04/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE CONTRUCCION PARA EL DESARROLLO DEL PROYECTO NATIVA DE REDES ELECTRICAS PROVISIONALES DE OBRA CAMPAMENTO Y TABLEROS</td>            
+            <td align="left">PMR - Construcción 2% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >53,894,068.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >347,821.77</td>
+            <td align="right" >53,894,068.00</td>            
+            <td align="right" >53,894,068.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >5,354,624.62</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('51945','4060162');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060168</td>
+            <td align="left">SANABRIA HERRERA JEROME </td>
+            <td align="left">13/02/2026</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO CHARLA ORGANIZACIONAL PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,750,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,750,000.00</td>            
+            <td align="right" >1,750,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52107','4060168');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060169</td>
+            <td align="left">TOUCH PRODUCCIONES SAS</td>
+            <td align="left">13/02/2026</td>
+            <td align="left">30/04/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO EVENTO CHARLA ORGANIZACIONAL PROYECTO NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >5,265,750.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >840,750.00</td>
+            <td align="right" >5,265,750.00</td>            
+            <td align="right" >5,265,750.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52108','4060169');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060171</td>
+            <td align="left">AGUA Y BOMBAS HIDRO 2000 SAS</td>
+            <td align="left">20/02/2026</td>
+            <td align="left">31/03/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO MANTENIMIENTO Y RECARGA HIDRO ACOMULADOR DE 500 LITROS</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >261,800.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >41,800.00</td>
+            <td align="right" >261,800.00</td>            
+            <td align="right" >261,800.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52199','4060171');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060172</td>
+            <td align="left">CENTRAL DE ANDAMIOS Y CONSTRUCCIONES S.A.S.</td>
+            <td align="left">21/02/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER PROYECTO NATIVA - ANDAMIO MULTIDIRECCIONAL SALON COMUNAL 3</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >16,166,963.11</td>
+            <td align="right" >-1,492,602.06</td>
+            <td align="right" >2,342,965.21</td>
+            <td align="right" >14,674,361.04</td>            
+            <td align="right" >14,674,361.04</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52201','4060172');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060173</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">21/02/2026</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER BOMBA SUMERGIBLE OBRA NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >714,000.00</td>
+            <td align="right" >-452,200.00</td>
+            <td align="right" >41,800.00</td>
+            <td align="right" >261,800.00</td>            
+            <td align="right" >261,800.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52202','4060173');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060174</td>
+            <td align="left">SERVIOGUM SAS</td>
+            <td align="left">25/02/2026</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO DE BANCA MAMPOSTERIA ADICIONALES PARA EL PROYECTO NATIVA </td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >4,207,480.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >671,782.52</td>
+            <td align="right" >4,207,480.00</td>            
+            <td align="right" >4,207,480.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52258','4060174');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060181</td>
+            <td align="left">GIGACON TRANSPORTES SAS</td>
+            <td align="left">27/02/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO PROYECTO NATIVA, CERTIFICACION DE TORRE GRUA 2026</td>            
+            <td align="left">SP - Servicios 4 - 6% 6.9</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >1,785,000.00</td>
+            <td align="right" >-1,785,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>            
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52285','4060181');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060194</td>
+            <td align="left">IMBERFORM S.A.</td>
+            <td align="left">03/03/2026</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL SERVICIO DE MANTENIMIENTO DE BALDE PARA CONCRETO OBRA NATIVA</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Abierto</td>
+            <td align="right" >3,200,387.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >510,986.16</td>
+            <td align="right" >3,200,387.00</td>            
+            <td align="right" >3,200,387.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52330','4060194');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060208</td>
+            <td align="left">EXTINTORES M G S A S</td>
+            <td align="left">16/03/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL DESARROLLO DEL PROYECTO NATIVA: SERVICIO DE MANTENIMIENTO Y RECARGA DE EXTINTORES</td>            
+            <td align="left">SP - Servicios 4 - 6% 9.66</td>
+            <td align="left">Abierto</td>
+            <td align="right" >549,780.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >87,780.00</td>
+            <td align="right" >549,780.00</td>            
+            <td align="right" >549,780.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52480','4060208');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060210</td>
+            <td align="left">UNISPAN COLOMBIA S.A.S</td>
+            <td align="left">09/05/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL SUMINISTRO PARA EL DESARROLLO DEL PROYECTO NATIVA: REPOSICION FORMALETA </td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Abierto</td>
+            <td align="right" >1,505,284.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,505,284.00</td>            
+            <td align="right" >1,505,284.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52482','4060210');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060213</td>
+            <td align="left">CASTOR DATA S A S</td>
+            <td align="left">18/03/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE EQUIPO DE COMPUTO ATLAS BIM</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 11.04 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >12,771,001.00</td>
+            <td align="right" >-1,537,001.00</td>
+            <td align="right" >1,793,663.87</td>
+            <td align="right" >11,234,000.00</td>            
+            <td align="right" >11,234,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52498','4060213');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060214</td>
+            <td align="left">REAL ADVERTISING LTDA</td>
+            <td align="left">18/06/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE VINILOS CAJA BIM PROYECTO NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Abierto</td>
+            <td align="right" >1,642,201.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >262,200.16</td>
+            <td align="right" >1,642,201.00</td>            
+            <td align="right" >1,642,201.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52500','4060214');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060215</td>
+            <td align="left">ESTRUCTURAS METALICAS GUZMAN SAS</td>
+            <td align="left">18/06/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL PARA EL SUMINISTRO DE GABINETE METALICO PARA EQUIPO ATLAS BIM PROYECTO NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Abierto</td>
+            <td align="right" >9,487,871.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >1,514,870.16</td>
+            <td align="right" >9,487,871.00</td>            
+            <td align="right" >9,487,871.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52501','4060215');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060218</td>
+            <td align="left">INSTALACIONES HIDRAULICAS SANITARIAS Y DE GAS INOCENCIO LOPEZ SAS</td>
+            <td align="left">25/03/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER MINICARGADOR SALON COMUNAL 3</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >10,000,593.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >1,596,733.34</td>
+            <td align="right" >10,000,593.00</td>            
+            <td align="right" >10,000,593.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52541','4060218');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060219</td>
+            <td align="left">AXA COLPATRIA SEGUROS SA</td>
+            <td align="left">27/03/2026</td>
+            <td align="left">31/05/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SERVICIO POLIZA DE TRANSPORTE OBRA NATIVA </td>            
+            <td align="left">SP - Servicios 4 - 6% 14.00</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >2,261,237.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >361,037.84</td>
+            <td align="right" >2,261,237.00</td>            
+            <td align="right" >2,261,237.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52565','4060219');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060226</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">11/05/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MECANTIL DE SUMINISTRO ARRANCADOR DE MOTOR PARA CORTADORA DE LADRILLO PROYECTO NATIVA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Cerrado</td>
+            <td align="right" >321,301.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >51,300.16</td>
+            <td align="right" >321,301.00</td>            
+            <td align="right" >321,301.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >-0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52880','4060226');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060231</td>
+            <td align="left">SERVIBAQUER SAS</td>
+            <td align="left">15/05/2026</td>
+            <td align="left">30/06/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE ALQUILER EQUIPO DE BOMBEO CONCRETO SALON COMUNAL 3, 4 Y TANQUES OBRA NATIVA</td>            
+            <td align="left">SP - Alquiler 4% 9.66</td>
+            <td align="left">Abierto</td>
+            <td align="right" >1,071,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >171,000.00</td>
+            <td align="right" >1,071,000.00</td>            
+            <td align="right" >1,071,000.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('52921','4060231');"></i>
+            </td>
+        </tr>
+		
+			
+         <tr>
+            <td align="left">4060238</td>
+            <td align="left">SERVIOGUM SAS</td>
+            <td align="left">01/06/2026</td>
+            <td align="left">31/07/2026</td>
+            <td style="min-width:300px !important; max-width:500px !important;" align="left">OFERTA MERCANTIL DE SUMINISTRO PARA EL DESARROLO DEL PROYECTO NATIVA BANCA ADICIONALES MAMPOSTERIA</td>            
+            <td align="left">SP - Compra 2.5 - 3.5% 6.9 Suministros</td>
+            <td align="left">Abierto</td>
+            <td align="right" >5,755,055.00</td>
+            <td align="right" >-0.00</td>
+            <td align="right" >918,874.33</td>
+            <td align="right" >5,755,055.00</td>            
+            <td align="right" >5,755,055.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+                       
+                 <td align="right"  >0.00</td> 
+            
+              <td align="right" >0.00</td>
+            <td align="right" >0.00</td>
+            <td align="center">
+                <i class="fa fa-paperclip fa-lg" aria-hidden="true" onclick="muestraImagenes('53018','4060238');"></i>
+            </td>
+        </tr>
+		  
+
+         
+
+	
+	</tbody>
+</table>
+</div></div>      
+<input name="exportar" type="hidden" id="exportar" value="0">
+
+</form>
+<script src="../../Framework/Scripts/jquery.min.js"></script>
+<script src="../../Framework/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../Framework/Scripts/plugin-ADPRO.js"></script>
+<script src="../../Framework/Scripts/ASPClasic.js"></script> 
+</body>
+</html>
