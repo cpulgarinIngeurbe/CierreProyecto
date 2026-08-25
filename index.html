@@ -70,6 +70,26 @@
     border-left: 4px solid var(--verde);
   }
 
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+  .kpi-card {
+    background: var(--blanco);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08);
+    position: relative;
+    overflow: hidden;
+    border-top: 4px solid var(--verde);
+  }
+  .kpi-label { font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: .07em; color: #888; margin-bottom: 6px; }
+  .kpi-current { font-size: 30px; font-weight: 700; color: var(--texto); line-height: 1; }
+  .kpi-sub { font-size: 11px; color: #999; margin-top: 6px; }
+  .kpi-card .accent-line { position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: var(--verde); opacity: .15; }
+
   .table-card {
     background: var(--blanco);
     border-radius: 10px;
@@ -161,6 +181,9 @@
 </header>
 
 <main>
+  <div class="section-title">Resumen</div>
+  <div class="kpi-grid" id="kpi-grid"></div>
+
   <div class="section-title">Listado de Contratos</div>
   <div class="table-card">
     <div class="table-header">
@@ -188,6 +211,7 @@ const XLS_PATH = 'informes/liquidacion.xls';
 const NUMERIC_HINT = /valor|acumulado|amortizado|saldo|descuento|faltante/i;
 const BADGE_COLUMN = /estado contrato/i;
 const ATTACHMENT_COLUMN = /adjuntos?/i;
+const RETENTION_COLUMN = /^retenci[oó]n$/i;
 
 let headers = [];
 let rows = [];          // [{ cells: [{text, numeric, isDate, hasAttachment}], }]
@@ -230,9 +254,32 @@ async function loadData() {
 
   renderHead();
   render();
+  renderKPIs();
 
   document.getElementById('fecha-actualizacion').textContent =
     new Date().toLocaleString('es-CO', { dateStyle: 'medium', timeStyle: 'short' });
+}
+
+function renderKPIs() {
+  const retIdx = headers.findIndex(h => RETENTION_COLUMN.test(h));
+  const estadoIdx = headers.findIndex(h => BADGE_COLUMN.test(h));
+
+  let count = 0;
+  if (retIdx !== -1 && estadoIdx !== -1) {
+    count = rows.filter(cells =>
+      /retenci[oó]n completa/i.test(cells[retIdx]?.text || '') &&
+      /^cerrado$/i.test(cells[estadoIdx]?.text || '')
+    ).length;
+  }
+
+  document.getElementById('kpi-grid').innerHTML = `
+    <div class="kpi-card">
+      <div class="kpi-label">Retención completa y cerrados</div>
+      <div class="kpi-current">${count}</div>
+      <div class="kpi-sub">Contratos con Retención = "Retención completa" y Estado Contrato = "Cerrado"</div>
+      <div class="accent-line"></div>
+    </div>
+  `;
 }
 
 function clean(s) {
